@@ -1,0 +1,1950 @@
+source_idx,source_title,similar_title,weight
+0,Dynamic Backtracking,"A New Look at the Easy-Hard-Easy Pattern of Combinatorial Search
+  Difficulty",2
+3,The Difficulties of Learning Logic Programs with Cut,On Planning while Learning,2
+3,The Difficulties of Learning Logic Programs with Cut,Pac-Learning Recursive Logic Programs: Efficient Algorithms,2
+3,The Difficulties of Learning Logic Programs with Cut,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",2
+3,The Difficulties of Learning Logic Programs with Cut,Practical Methods for Proving Termination of General Logic Programs,2
+3,The Difficulties of Learning Logic Programs with Cut,"Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",2
+5,Decidable Reasoning in Terminological Knowledge Representation Systems,"A Semantics and Complete Algorithm for Subsumption in the CLASSIC
+  Description Logic",3
+5,Decidable Reasoning in Terminological Knowledge Representation Systems,Ultimate approximations in nonmonotonic knowledge representation systems,3
+5,Decidable Reasoning in Terminological Knowledge Representation Systems,Knowledge Representation,3
+5,Decidable Reasoning in Terminological Knowledge Representation Systems,SLDNFA-system,2
+5,Decidable Reasoning in Terminological Knowledge Representation Systems,Reasoning about Evolving Nonmonotonic Knowledge Bases,2
+6,Teleo-Reactive Programs for Agent Control,Probabilistic Agent Programs,2
+7,"Learning the Past Tense of English Verbs: The Symbolic Pattern
+  Associator vs. Connectionist Models","Induction of First-Order Decision Lists: Results on Learning the Past
+  Tense of English Verbs",2
+9,Bias-Driven Revision of Logical Domain Theories,"Rerepresenting and Restructuring Domain Theories: A Constructive
+  Induction Approach",2
+9,Bias-Driven Revision of Logical Domain Theories,Mechanisms for Automated Negotiation in State Oriented Domains,2
+9,Bias-Driven Revision of Logical Domain Theories,Tractability of Theory Patching,2
+10,"Exploring the Decision Forest: An Empirical Investigation of Occam's
+  Razor in Decision Tree Induction",A System for Induction of Oblique Decision Trees,3
+10,"Exploring the Decision Forest: An Empirical Investigation of Occam's
+  Razor in Decision Tree Induction","Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic
+  Decision Tree Induction Algorithm",3
+10,"Exploring the Decision Forest: An Empirical Investigation of Occam's
+  Razor in Decision Tree Induction",Further Experimental Evidence against the Utility of Occam's Razor,3
+10,"Exploring the Decision Forest: An Empirical Investigation of Occam's
+  Razor in Decision Tree Induction",Traffic Accident Analysis Using Decision Trees and Neural Networks,2
+11,"A Semantics and Complete Algorithm for Subsumption in the CLASSIC
+  Description Logic",Decidable Reasoning in Terminological Knowledge Representation Systems,3
+11,"A Semantics and Complete Algorithm for Subsumption in the CLASSIC
+  Description Logic",Ultimate approximations in nonmonotonic knowledge representation systems,3
+12,Applying GSAT to Non-Clausal Formulas,Why did the accident happen? A norm-based reasoning approach,2
+13,Random Worlds and Maximum Entropy,From Statistical Knowledge Bases to Degrees of Belief,4
+13,Random Worlds and Maximum Entropy,A Consistency-Based Model for Belief Change: Preliminary Report,2
+14,"Pattern Matching and Discourse Processing in Information Extraction from
+  Japanese Text",Wrap-Up: a Trainable Discourse Module for Information Extraction,2
+15,A System for Induction of Oblique Decision Trees,"Exploring the Decision Forest: An Empirical Investigation of Occam's
+  Razor in Decision Tree Induction",3
+15,A System for Induction of Oblique Decision Trees,Further Experimental Evidence against the Utility of Occam's Razor,2
+15,A System for Induction of Oblique Decision Trees,Traffic Accident Analysis Using Decision Trees and Neural Networks,2
+15,A System for Induction of Oblique Decision Trees,"Multiagent Approach for the Representation of Information in a Decision
+  Support System",2
+16,On Planning while Learning,The Difficulties of Learning Logic Programs with Cut,2
+16,On Planning while Learning,Flexibly Instructable Agents,2
+16,On Planning while Learning,Reinforcement Learning: A Survey,2
+17,Wrap-Up: a Trainable Discourse Module for Information Extraction,"Pattern Matching and Discourse Processing in Information Extraction from
+  Japanese Text",2
+18,Operations for Learning with Graphical Models,Integrating Defeasible Argumentation and Machine Learning Techniques,2
+18,Operations for Learning with Graphical Models,Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,2
+18,Operations for Learning with Graphical Models,"EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",2
+18,Operations for Learning with Graphical Models,"Clustering Mixed Numeric and Categorical Data: A Cluster Ensemble
+  Approach",2
+18,Operations for Learning with Graphical Models,K-Histograms: An Efficient Clustering Algorithm for Categorical Dataset,2
+20,Solving Multiclass Learning Problems via Error-Correcting Output Codes,Learning First-Order Definitions of Functions,2
+21,A Domain-Independent Algorithm for Plan Adaptation,On-the-fly Macros,2
+22,"Truncating Temporal Differences: On the Efficient Implementation of
+  TD(lambda) for Reinforcement Learning",Reinforcement Learning: A Survey,2
+22,"Truncating Temporal Differences: On the Efficient Implementation of
+  TD(lambda) for Reinforcement Learning",Searching for Plannable Domains can Speed up Reinforcement Learning,2
+23,"Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic
+  Decision Tree Induction Algorithm","Exploring the Decision Forest: An Empirical Investigation of Occam's
+  Razor in Decision Tree Induction",3
+23,"Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic
+  Decision Tree Induction Algorithm",Anisotropic selection in cellular genetic algorithms,3
+23,"Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic
+  Decision Tree Induction Algorithm","On the Influence of Selection Operators on Performances in Cellular
+  Genetic Algorithms",2
+23,"Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic
+  Decision Tree Induction Algorithm",Genetic Algorithms for multiple objective vehicle routing,2
+23,"Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic
+  Decision Tree Induction Algorithm",On Classification from Outlier View,2
+24,"Rerepresenting and Restructuring Domain Theories: A Constructive
+  Induction Approach",Bias-Driven Revision of Logical Domain Theories,2
+25,Using Pivot Consistency to Decompose and Solve Functional CSPs,MUSE CSP: An Extension to the Constraint Satisfaction Problem,4
+25,Using Pivot Consistency to Decompose and Solve Functional CSPs,Breaking Value Symmetry,4
+25,Using Pivot Consistency to Decompose and Solve Functional CSPs,The Exact Closest String Problem as a Constraint Satisfaction Problem,4
+25,Using Pivot Consistency to Decompose and Solve Functional CSPs,"Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison",3
+25,Using Pivot Consistency to Decompose and Solve Functional CSPs,Relation Variables in Qualitative Spatial Reasoning,3
+28,Pac-Learning Recursive Logic Programs: Efficient Algorithms,Pac-learning Recursive Logic Programs: Negative Results,5
+28,Pac-Learning Recursive Logic Programs: Efficient Algorithms,The Difficulties of Learning Logic Programs with Cut,2
+28,Pac-Learning Recursive Logic Programs: Efficient Algorithms,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",2
+28,Pac-Learning Recursive Logic Programs: Efficient Algorithms,Practical Methods for Proving Termination of General Logic Programs,2
+28,Pac-Learning Recursive Logic Programs: Efficient Algorithms,"Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",2
+29,Pac-learning Recursive Logic Programs: Negative Results,Pac-Learning Recursive Logic Programs: Efficient Algorithms,5
+30,FLECS: Planning with a Flexible Commitment Strategy,"Storing and Indexing Plan Derivations through Explanation-based Analysis
+  of Retrieval Failures",2
+30,FLECS: Planning with a Flexible Commitment Strategy,Semi-Myopic Sensing Plans for Value Optimization,2
+31,"Induction of First-Order Decision Lists: Results on Learning the Past
+  Tense of English Verbs","Learning the Past Tense of English Verbs: The Symbolic Pattern
+  Associator vs. Connectionist Models",2
+34,An Integrated Framework for Learning and Reasoning,Rule-based Machine Learning Methods for Functional Prediction,2
+34,An Integrated Framework for Learning and Reasoning,Active Learning with Statistical Models,2
+34,An Integrated Framework for Learning and Reasoning,Reinforcement Learning: A Survey,2
+34,An Integrated Framework for Learning and Reasoning,A Formal Framework for Speedup Learning from Problems and Solutions,2
+34,An Integrated Framework for Learning and Reasoning,Integrating Defeasible Argumentation and Machine Learning Techniques,2
+38,Flexibly Instructable Agents,On Planning while Learning,2
+38,Flexibly Instructable Agents,A Consistency-Based Model for Belief Change: Preliminary Report,2
+38,Flexibly Instructable Agents,New Generalization Bounds for Learning Kernels,2
+41,Generalization of Clauses under Implication,Least Generalizations and Greatest Specializations of Sets of Clauses,4
+41,Generalization of Clauses under Implication,Representing Knowledge about Norms,3
+41,Generalization of Clauses under Implication,New Generalization Bounds for Learning Kernels,2
+42,Decision-Theoretic Foundations for Causal Reasoning,"Causes and Explanations: A Structural-Model Approach. Part II:
+  Explanations",2
+43,Translating between Horn Representations and their Characteristic Models,Knowledge Representation,2
+43,Translating between Horn Representations and their Characteristic Models,Bayesian Approach to Neuro-Rough Models,2
+43,Translating between Horn Representations and their Characteristic Models,"Emotion: Appraisal-coping model for the ""Cascades"" problem",2
+43,Translating between Horn Representations and their Characteristic Models,Model-Driven Constraint Programming,2
+45,Rule-based Machine Learning Methods for Functional Prediction,Integrating Defeasible Argumentation and Machine Learning Techniques,3
+45,Rule-based Machine Learning Methods for Functional Prediction,An Integrated Framework for Learning and Reasoning,2
+45,Rule-based Machine Learning Methods for Functional Prediction,Reinforcement Learning: A Survey,2
+45,Rule-based Machine Learning Methods for Functional Prediction,Restart Strategy Selection using Machine Learning Techniques,2
+46,"The Design and Experimental Analysis of Algorithms for Temporal
+  Reasoning",Temporal Reasoning without Transitive Tables,3
+47,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences","Comparisons and Computation of Well-founded Semantics for Disjunctive
+  Logic Programs",6
+47,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",Logic Programs with Compiled Preferences,5
+47,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",A Framework for Compiling Preferences in Logic Programs,5
+47,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",A Compiler for Ordered Logic Programs,4
+47,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",Practical Methods for Proving Termination of General Logic Programs,3
+49,Quantum Computing and Phase Transitions in Combinatorial Search,"A New Look at the Easy-Hard-Easy Pattern of Combinatorial Search
+  Difficulty",3
+49,Quantum Computing and Phase Transitions in Combinatorial Search,A Framework for Searching AND/OR Graphs with Cycles,2
+49,Quantum Computing and Phase Transitions in Combinatorial Search,Online Search Cost Estimation for SAT Solvers,2
+50,Mean Field Theory for Sigmoid Belief Networks,Inferring knowledge from a large semantic network,2
+52,Active Learning with Statistical Models,An Integrated Framework for Learning and Reasoning,2
+52,Active Learning with Statistical Models,"Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms",2
+54,Practical Methods for Proving Termination of General Logic Programs,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",3
+54,Practical Methods for Proving Termination of General Logic Programs,"Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",3
+54,Practical Methods for Proving Termination of General Logic Programs,Logic Programs with Compiled Preferences,3
+54,Practical Methods for Proving Termination of General Logic Programs,A Framework for Compiling Preferences in Logic Programs,3
+54,Practical Methods for Proving Termination of General Logic Programs,"Comparisons and Computation of Well-founded Semantics for Disjunctive
+  Logic Programs",3
+55,Iterative Optimization and Simplification of Hierarchical Clusterings,"Clustering Mixed Numeric and Categorical Data: A Cluster Ensemble
+  Approach",2
+55,Iterative Optimization and Simplification of Hierarchical Clusterings,K-Histograms: An Efficient Clustering Algorithm for Categorical Dataset,2
+55,Iterative Optimization and Simplification of Hierarchical Clusterings,Approximation Algorithms for K-Modes Clustering,2
+55,Iterative Optimization and Simplification of Hierarchical Clusterings,"Geometric Data Analysis, From Correspondence Analysis to Structured Data
+  Analysis (book review)",2
+55,Iterative Optimization and Simplification of Hierarchical Clusterings,Probabilistic Semantic Web Mining Using Artificial Neural Analysis,2
+56,Further Experimental Evidence against the Utility of Occam's Razor,"Exploring the Decision Forest: An Empirical Investigation of Occam's
+  Razor in Decision Tree Induction",3
+56,Further Experimental Evidence against the Utility of Occam's Razor,A System for Induction of Oblique Decision Trees,2
+56,Further Experimental Evidence against the Utility of Occam's Razor,"Great Expectations. Part II: Generalized Expected Utility as a Universal
+  Decision Rule",2
+56,Further Experimental Evidence against the Utility of Occam's Razor,Traffic Accident Analysis Using Decision Trees and Neural Networks,2
+57,Least Generalizations and Greatest Specializations of Sets of Clauses,Generalization of Clauses under Implication,4
+57,Least Generalizations and Greatest Specializations of Sets of Clauses,Planning with Preferences using Logic Programming,2
+58,Reinforcement Learning: A Survey,Searching for Plannable Domains can Speed up Reinforcement Learning,3
+58,Reinforcement Learning: A Survey,On Planning while Learning,2
+58,Reinforcement Learning: A Survey,"Truncating Temporal Differences: On the Efficient Implementation of
+  TD(lambda) for Reinforcement Learning",2
+58,Reinforcement Learning: A Survey,An Integrated Framework for Learning and Reasoning,2
+58,Reinforcement Learning: A Survey,Rule-based Machine Learning Methods for Functional Prediction,2
+60,A Formal Framework for Speedup Learning from Problems and Solutions,An Integrated Framework for Learning and Reasoning,2
+64,Spatial Aggregation: Theory and Applications,A Complete Classification of Tractability in RCC-5,2
+64,Spatial Aggregation: Theory and Applications,Relation Variables in Qualitative Spatial Reasoning,2
+64,Spatial Aggregation: Theory and Applications,"A Novel Two-Staged Decision Support based Threat Evaluation and Weapon
+  Assignment Algorithm, Asset-based Dynamic Weapon Scheduling using Artificial
+  Intelligence Techinques",2
+64,Spatial Aggregation: Theory and Applications,Indexer Based Dynamic Web Services Discovery,2
+65,A Hierarchy of Tractable Subsets for Computing Stable Models,A Consistency-Based Model for Belief Change: Preliminary Report,3
+65,A Hierarchy of Tractable Subsets for Computing Stable Models,What does a conditional knowledge base entail?,3
+65,A Hierarchy of Tractable Subsets for Computing Stable Models,Unfolding Partiality and Disjunctions in Stable Model Semantics,2
+65,A Hierarchy of Tractable Subsets for Computing Stable Models,Proceedings of the Pacific Knowledge Acquisition Workshop 2004,2
+65,A Hierarchy of Tractable Subsets for Computing Stable Models,Representing Knowledge about Norms,2
+68,Mechanisms for Automated Negotiation in State Oriented Domains,Bias-Driven Revision of Logical Domain Theories,2
+69,Learning First-Order Definitions of Functions,Solving Multiclass Learning Problems via Error-Correcting Output Codes,2
+70,MUSE CSP: An Extension to the Constraint Satisfaction Problem,Breaking Value Symmetry,6
+70,MUSE CSP: An Extension to the Constraint Satisfaction Problem,The Exact Closest String Problem as a Constraint Satisfaction Problem,5
+70,MUSE CSP: An Extension to the Constraint Satisfaction Problem,Using Pivot Consistency to Decompose and Solve Functional CSPs,4
+70,MUSE CSP: An Extension to the Constraint Satisfaction Problem,Relation Variables in Qualitative Spatial Reasoning,4
+70,MUSE CSP: An Extension to the Constraint Satisfaction Problem,Symmetry within Solutions,4
+71,Exploiting Causal Independence in Bayesian Network Inference,"Generating Conditional Probabilities for Bayesian Networks: Easing the
+  Knowledge Acquisition Problem",2
+75,"SCREEN: Learning a Flat Syntactic and Semantic Spoken Language Analysis
+  Using Artificial Neural Networks",Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques,2
+75,"SCREEN: Learning a Flat Syntactic and Semantic Spoken Language Analysis
+  Using Artificial Neural Networks",Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,2
+75,"SCREEN: Learning a Flat Syntactic and Semantic Spoken Language Analysis
+  Using Artificial Neural Networks",Meta-Learning Evolutionary Artificial Neural Networks,2
+75,"SCREEN: Learning a Flat Syntactic and Semantic Spoken Language Analysis
+  Using Artificial Neural Networks","Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms",2
+75,"SCREEN: Learning a Flat Syntactic and Semantic Spoken Language Analysis
+  Using Artificial Neural Networks","Response Prediction of Structural System Subject to Earthquake Motions
+  using Artificial Neural Network",2
+81,A Complete Classification of Tractability in RCC-5,Relation Variables in Qualitative Spatial Reasoning,3
+81,A Complete Classification of Tractability in RCC-5,Spatial Aggregation: Theory and Applications,2
+82,"A New Look at the Easy-Hard-Easy Pattern of Combinatorial Search
+  Difficulty",Quantum Computing and Phase Transitions in Combinatorial Search,3
+82,"A New Look at the Easy-Hard-Easy Pattern of Combinatorial Search
+  Difficulty","Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison",3
+82,"A New Look at the Easy-Hard-Easy Pattern of Combinatorial Search
+  Difficulty",Logic programs with propositional connectives and aggregates,3
+82,"A New Look at the Easy-Hard-Easy Pattern of Combinatorial Search
+  Difficulty",Dynamic Backtracking,2
+82,"A New Look at the Easy-Hard-Easy Pattern of Combinatorial Search
+  Difficulty",When Gravity Fails: Local Search Topology,2
+87,"Storing and Indexing Plan Derivations through Explanation-based Analysis
+  of Retrieval Failures",FLECS: Planning with a Flexible Commitment Strategy,2
+87,"Storing and Indexing Plan Derivations through Explanation-based Analysis
+  of Retrieval Failures",Semi-Myopic Sensing Plans for Value Optimization,2
+88,"A Model Approximation Scheme for Planning in Partially Observable
+  Stochastic Domains","Feature Selection Using Regularization in Approximate Linear Programs
+  for Markov Decision Processes",3
+88,"A Model Approximation Scheme for Planning in Partially Observable
+  Stochastic Domains",MDPs with Unawareness,3
+90,When Gravity Fails: Local Search Topology,"A Local Search Modeling for Constrained Optimum Paths Problems (Extended
+  Abstract)",3
+90,When Gravity Fails: Local Search Topology,On Improving Local Search for Unsatisfiability,3
+90,When Gravity Fails: Local Search Topology,Toward an automaton Constraint for Local Search,3
+90,When Gravity Fails: Local Search Topology,"A New Look at the Easy-Hard-Easy Pattern of Combinatorial Search
+  Difficulty",2
+90,When Gravity Fails: Local Search Topology,Islands for SAT,2
+91,Bidirectional Heuristic Search Reconsidered,On Backtracking in Real-time Heuristic Search,2
+93,Monotonicity and Persistence in Preferential Logics,Artificial Intelligence for Conflict Management,2
+93,Monotonicity and Persistence in Preferential Logics,The Road to Quantum Artificial Intelligence,2
+93,Monotonicity and Persistence in Preferential Logics,Universal Intelligence: A Definition of Machine Intelligence,2
+93,Monotonicity and Persistence in Preferential Logics,Artificial Intelligence Techniques for Steam Generator Modelling,2
+96,Tractability of Theory Patching,Bias-Driven Revision of Logical Domain Theories,2
+96,Tractability of Theory Patching,Unification of Fusion Theories,2
+97,Integrative Windowing,"Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms",2
+97,Integrative Windowing,Learning DTW Global Constraint for Time Series Classification,2
+98,Model-Based Diagnosis using Structured System Descriptions,Defeasible Reasoning in OSCAR,2
+98,Model-Based Diagnosis using Structured System Descriptions,"E-RES: A System for Reasoning about Actions, Events and Observations",2
+101,SYNERGY: A Linear Planner Based on Genetic Programming,dcs: An Implementation of DATALOG with Constraints,2
+101,SYNERGY: A Linear Planner Based on Genetic Programming,Avoiding the Bloat with Stochastic Grammar-based Genetic Programming,2
+102,The Essence of Constraint Propagation,Some Remarks on Boolean Constraint Propagation,3
+102,The Essence of Constraint Propagation,Enhancing Constraint Propagation with Composition Operators,3
+102,The Essence of Constraint Propagation,The Weighted CFG Constraint,2
+102,The Essence of Constraint Propagation,Toward an automaton Constraint for Local Search,2
+102,The Essence of Constraint Propagation,Propagating Conjunctions of AllDifferent Constraints,2
+105,"Modeling Belief in Dynamic Systems, Part II: Revision and Update",A general approach to belief change in answer set programming,4
+105,"Modeling Belief in Dynamic Systems, Part II: Revision and Update",A Consistency-Based Model for Belief Change: Preliminary Report,3
+105,"Modeling Belief in Dynamic Systems, Part II: Revision and Update",Optimal Belief Revision,2
+105,"Modeling Belief in Dynamic Systems, Part II: Revision and Update",Local Diagnosis,2
+105,"Modeling Belief in Dynamic Systems, Part II: Revision and Update",SATEN: An Object-Oriented Web-Based Revision and Extraction Engine,2
+108,Probabilistic Agent Programs,Teleo-Reactive Programs for Agent Control,2
+110,Uniform semantic treatment of default and autoepistemic logics,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",2
+110,Uniform semantic treatment of default and autoepistemic logics,Distance Semantics for Belief Revision,2
+110,Uniform semantic treatment of default and autoepistemic logics,Embedding Default Logic in Propositional Argumentation Systems,2
+110,Uniform semantic treatment of default and autoepistemic logics,"Comparisons and Computation of Well-founded Semantics for Disjunctive
+  Logic Programs",2
+110,Uniform semantic treatment of default and autoepistemic logics,From Statistical Knowledge Bases to Degrees of Belief,2
+113,"Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",Smodels: A System for Answer Set Programming,4
+113,"Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure","Abduction, ASP and Open Logic Programs",4
+113,"Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure","Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",3
+113,"Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",Practical Methods for Proving Termination of General Logic Programs,3
+113,"Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",Logic Programs with Compiled Preferences,3
+114,Defeasible Reasoning in OSCAR,Model-Based Diagnosis using Structured System Descriptions,2
+114,Defeasible Reasoning in OSCAR,"E-RES: A System for Reasoning about Actions, Events and Observations",2
+114,Defeasible Reasoning in OSCAR,Handling Defeasibilities in Action Domains,2
+114,Defeasible Reasoning in OSCAR,Why did the accident happen? A norm-based reasoning approach,2
+116,ACLP: Integrating Abduction and Constraint Solving,dcs: An Implementation of DATALOG with Constraints,2
+116,ACLP: Integrating Abduction and Constraint Solving,"Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison",2
+116,ACLP: Integrating Abduction and Constraint Solving,Defeasible Logic Programming: An Argumentative Approach,2
+116,ACLP: Integrating Abduction and Constraint Solving,Parametric Connectives in Disjunctive Logic Programming,2
+116,ACLP: Integrating Abduction and Constraint Solving,On the Expressibility of Stable Logic Programming,2
+118,Probabilistic Default Reasoning with Conditional Constraints,From Statistical Knowledge Bases to Degrees of Belief,4
+118,Probabilistic Default Reasoning with Conditional Constraints,Another perspective on Default Reasoning,3
+118,Probabilistic Default Reasoning with Conditional Constraints,What does a conditional knowledge base entail?,2
+118,Probabilistic Default Reasoning with Conditional Constraints,Symmetry within and between solutions,2
+119,A Compiler for Ordered Logic Programs,Logic Programs with Compiled Preferences,8
+119,A Compiler for Ordered Logic Programs,A Framework for Compiling Preferences in Logic Programs,8
+119,A Compiler for Ordered Logic Programs,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",4
+119,A Compiler for Ordered Logic Programs,On Properties of Update Sequences Based on Causal Rejection,4
+119,A Compiler for Ordered Logic Programs,A general approach to belief change in answer set programming,4
+120,SLDNFA-system,Problem solving in ID-logic with aggregates: some experiments,3
+120,SLDNFA-system,Decidable Reasoning in Terminological Knowledge Representation Systems,2
+120,SLDNFA-system,"Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",2
+120,SLDNFA-system,Two results for proiritized logic programming,2
+120,SLDNFA-system,Knowledge Representation,2
+121,Logic Programs with Compiled Preferences,A Framework for Compiling Preferences in Logic Programs,12
+121,Logic Programs with Compiled Preferences,A Compiler for Ordered Logic Programs,8
+121,Logic Programs with Compiled Preferences,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",5
+121,Logic Programs with Compiled Preferences,Domain-Dependent Knowledge in Answer Set Planning,5
+121,Logic Programs with Compiled Preferences,A semantic framework for preference handling in answer set programming,5
+122,Fuzzy Approaches to Abductive Inference,"A Comparative Study of Fuzzy Classification Methods on Breast Cancer
+  Data",2
+122,Fuzzy Approaches to Abductive Inference,"EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",2
+122,Fuzzy Approaches to Abductive Inference,Belief Conditioning Rules (BCRs),2
+123,Problem solving in ID-logic with aggregates: some experiments,SLDNFA-system,3
+124,Optimal Belief Revision,SATEN: An Object-Oriented Web-Based Revision and Extraction Engine,3
+124,Optimal Belief Revision,Distance Semantics for Belief Revision,3
+124,Optimal Belief Revision,Belief Revision and Rational Inference,3
+124,Optimal Belief Revision,Belief Conditioning Rules (BCRs),3
+124,Optimal Belief Revision,A general approach to belief change in answer set programming,3
+126,Smodels: A System for Answer Set Programming,Normal forms for Answer Sets Programming,5
+126,Smodels: A System for Answer Set Programming,"Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",5
+126,Smodels: A System for Answer Set Programming,"Achieving compositionality of the stable model semantics for Smodels
+  programs",5
+126,Smodels: A System for Answer Set Programming,An Application of Proof-Theory in Answer Set Programming,5
+126,Smodels: A System for Answer Set Programming,"Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",4
+127,"E-RES: A System for Reasoning about Actions, Events and Observations",Metatheory of actions: beyond consistency,3
+127,"E-RES: A System for Reasoning about Actions, Events and Observations",Model-Based Diagnosis using Structured System Descriptions,2
+127,"E-RES: A System for Reasoning about Actions, Events and Observations",Defeasible Reasoning in OSCAR,2
+127,"E-RES: A System for Reasoning about Actions, Events and Observations",Handling Defeasibilities in Action Domains,2
+127,"E-RES: A System for Reasoning about Actions, Events and Observations",Why did the accident happen? A norm-based reasoning approach,2
+130,DES: a Challenge Problem for Nonmonotonic Reasoning Systems,Smodels: A System for Answer Set Programming,3
+130,DES: a Challenge Problem for Nonmonotonic Reasoning Systems,"Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",2
+130,DES: a Challenge Problem for Nonmonotonic Reasoning Systems,"Abduction, ASP and Open Logic Programs",2
+131,Fages' Theorem and Answer Set Programming,A semantic framework for preference handling in answer set programming,6
+131,Fages' Theorem and Answer Set Programming,Normal forms for Answer Sets Programming,6
+131,Fages' Theorem and Answer Set Programming,Open Answer Set Programming with Guarded Programs,6
+131,Fages' Theorem and Answer Set Programming,"Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",5
+131,Fages' Theorem and Answer Set Programming,An Application of Proof-Theory in Answer Set Programming,5
+133,BDD-based reasoning in the fluent calculus - first results,Interactive Configuration by Regular String Constraints,3
+134,Planning with Incomplete Information,"A State-Based Regression Formulation for Domains with Sensing
+  Actions<br> and Incomplete Information",2
+135,Local Diagnosis,A Consistency-Based Model for Belief Change: Preliminary Report,3
+135,Local Diagnosis,"Modeling Belief in Dynamic Systems, Part II: Revision and Update",2
+135,Local Diagnosis,A general approach to belief change in answer set programming,2
+136,A Consistency-Based Model for Belief Change: Preliminary Report,A general approach to belief change in answer set programming,4
+136,A Consistency-Based Model for Belief Change: Preliminary Report,A Hierarchy of Tractable Subsets for Computing Stable Models,3
+136,A Consistency-Based Model for Belief Change: Preliminary Report,"Modeling Belief in Dynamic Systems, Part II: Revision and Update",3
+136,A Consistency-Based Model for Belief Change: Preliminary Report,Local Diagnosis,3
+136,A Consistency-Based Model for Belief Change: Preliminary Report,What does a conditional knowledge base entail?,3
+137,SATEN: An Object-Oriented Web-Based Revision and Extraction Engine,Optimal Belief Revision,3
+137,SATEN: An Object-Oriented Web-Based Revision and Extraction Engine,Distance Semantics for Belief Revision,3
+137,SATEN: An Object-Oriented Web-Based Revision and Extraction Engine,Belief Revision and Rational Inference,3
+137,SATEN: An Object-Oriented Web-Based Revision and Extraction Engine,Belief Conditioning Rules (BCRs),3
+137,SATEN: An Object-Oriented Web-Based Revision and Extraction Engine,A general approach to belief change in answer set programming,3
+138,dcs: An Implementation of DATALOG with Constraints,DATALOG with constraints - an answer-set programming system,4
+138,dcs: An Implementation of DATALOG with Constraints,SYNERGY: A Linear Planner Based on Genetic Programming,2
+138,dcs: An Implementation of DATALOG with Constraints,ACLP: Integrating Abduction and Constraint Solving,2
+138,dcs: An Implementation of DATALOG with Constraints,Stochastic Constraint Programming: A Scenario-Based Approach,2
+138,dcs: An Implementation of DATALOG with Constraints,Scenario-based Stochastic Constraint Programming,2
+139,DATALOG with constraints - an answer-set programming system,dcs: An Implementation of DATALOG with Constraints,4
+139,DATALOG with constraints - an answer-set programming system,Using Pivot Consistency to Decompose and Solve Functional CSPs,2
+139,DATALOG with constraints - an answer-set programming system,MUSE CSP: An Extension to the Constraint Satisfaction Problem,2
+139,DATALOG with constraints - an answer-set programming system,Breaking Value Symmetry,2
+139,DATALOG with constraints - an answer-set programming system,Multiset Ordering Constraints,2
+140,Some Remarks on Boolean Constraint Propagation,The Essence of Constraint Propagation,3
+140,Some Remarks on Boolean Constraint Propagation,Enhancing Constraint Propagation with Composition Operators,3
+140,Some Remarks on Boolean Constraint Propagation,Decomposition of the NVALUE constraint,2
+141,Conditional Plausibility Measures and Bayesian Networks,Using Sets of Probability Measures to Represent Uncertainty,2
+141,Conditional Plausibility Measures and Bayesian Networks,Updating Sets of Probabilities,2
+143,Brainstorm/J: a Java Framework for Intelligent Agents,From Statistical Knowledge Bases to Degrees of Belief,2
+144,On the relationship between fuzzy logic and four-valued relevance logic,"Local-search techniques for propositional logic extended with
+  cardinality constraints",2
+144,On the relationship between fuzzy logic and four-valued relevance logic,n-ary Fuzzy Logic and Neutrosophic Logic Operators,2
+144,On the relationship between fuzzy logic and four-valued relevance logic,"N-norm and N-conorm in Neutrosophic Logic and Set, and the Neutrosophic
+  Topologies",2
+144,On the relationship between fuzzy logic and four-valued relevance logic,Terrorism Event Classification Using Fuzzy Inference Systems,2
+145,"Causes and Explanations: A Structural-Model Approach, Part I: Causes","Causes and Explanations: A Structural-Model Approach. Part II:
+  Explanations",10
+145,"Causes and Explanations: A Structural-Model Approach, Part I: Causes","Estimation of linear, non-gaussian causal models in the presence of
+  confounding latent variables",3
+145,"Causes and Explanations: A Structural-Model Approach, Part I: Causes",A study of structural properties on profiles HMMs,2
+145,"Causes and Explanations: A Structural-Model Approach, Part I: Causes",On a Model for Integrated Information,2
+146,"Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison",Logic programs with propositional connectives and aggregates,4
+146,"Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison",Using Pivot Consistency to Decompose and Solve Functional CSPs,3
+146,"Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison",MUSE CSP: An Extension to the Constraint Satisfaction Problem,3
+146,"Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison","A New Look at the Easy-Hard-Easy Pattern of Combinatorial Search
+  Difficulty",3
+146,"Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison",Relation Variables in Qualitative Spatial Reasoning,3
+151,Enhancing Constraint Propagation with Composition Operators,The Essence of Constraint Propagation,3
+151,Enhancing Constraint Propagation with Composition Operators,Some Remarks on Boolean Constraint Propagation,3
+152,On Properties of Update Sequences Based on Causal Rejection,A Compiler for Ordered Logic Programs,4
+152,On Properties of Update Sequences Based on Causal Rejection,Logic Programs with Compiled Preferences,4
+152,On Properties of Update Sequences Based on Causal Rejection,A Framework for Compiling Preferences in Logic Programs,4
+152,On Properties of Update Sequences Based on Causal Rejection,Reasoning about Evolving Nonmonotonic Knowledge Bases,3
+152,On Properties of Update Sequences Based on Causal Rejection,"Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",3
+156,"Nonmonotonic Reasoning, Preferential Models and Cumulative Logics",The logical meaning of Expansion,2
+157,What does a conditional knowledge base entail?,A Hierarchy of Tractable Subsets for Computing Stable Models,3
+157,What does a conditional knowledge base entail?,A Consistency-Based Model for Belief Change: Preliminary Report,3
+157,What does a conditional knowledge base entail?,Probabilistic Default Reasoning with Conditional Constraints,2
+157,What does a conditional knowledge base entail?,Representing Knowledge about Norms,2
+157,What does a conditional knowledge base entail?,On Building a Knowledge Base for Stability Theory,2
+159,Distance Semantics for Belief Revision,Belief Revision and Rational Inference,4
+159,Distance Semantics for Belief Revision,Optimal Belief Revision,3
+159,Distance Semantics for Belief Revision,SATEN: An Object-Oriented Web-Based Revision and Extraction Engine,3
+159,Distance Semantics for Belief Revision,Belief Conditioning Rules (BCRs),3
+159,Distance Semantics for Belief Revision,A general approach to belief change in answer set programming,3
+161,Nonmonotonic inference operations,Deductive Nonmonotonic Inference Operations: Antitonic Representations,4
+162,The logical meaning of Expansion,"Nonmonotonic Reasoning, Preferential Models and Cumulative Logics",2
+163,Another perspective on Default Reasoning,Probabilistic Default Reasoning with Conditional Constraints,3
+163,Another perspective on Default Reasoning,From Statistical Knowledge Bases to Degrees of Belief,3
+164,Deductive Nonmonotonic Inference Operations: Antitonic Representations,Nonmonotonic inference operations,4
+164,Deductive Nonmonotonic Inference Operations: Antitonic Representations,Application of Rough Set Theory to Analysis of Hydrocyclone Operation,2
+166,A Framework for Compiling Preferences in Logic Programs,Logic Programs with Compiled Preferences,12
+166,A Framework for Compiling Preferences in Logic Programs,A Compiler for Ordered Logic Programs,8
+166,A Framework for Compiling Preferences in Logic Programs,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",5
+166,A Framework for Compiling Preferences in Logic Programs,A general approach to belief change in answer set programming,5
+166,A Framework for Compiling Preferences in Logic Programs,On Properties of Update Sequences Based on Causal Rejection,4
+167,Two results for proiritized logic programming,SLDNFA-system,2
+167,Two results for proiritized logic programming,Parametric Connectives in Disjunctive Logic Programming,2
+168,Belief Revision and Rational Inference,Distance Semantics for Belief Revision,4
+168,Belief Revision and Rational Inference,Optimal Belief Revision,3
+168,Belief Revision and Rational Inference,SATEN: An Object-Oriented Web-Based Revision and Extraction Engine,3
+168,Belief Revision and Rational Inference,Belief Conditioning Rules (BCRs),3
+168,Belief Revision and Rational Inference,A general approach to belief change in answer set programming,3
+169,Ultimate approximations in nonmonotonic knowledge representation systems,Decidable Reasoning in Terminological Knowledge Representation Systems,3
+169,Ultimate approximations in nonmonotonic knowledge representation systems,"A Semantics and Complete Algorithm for Subsumption in the CLASSIC
+  Description Logic",3
+170,Handling Defeasibilities in Action Domains,Defeasible Reasoning in OSCAR,2
+170,Handling Defeasibilities in Action Domains,"E-RES: A System for Reasoning about Actions, Events and Observations",2
+170,Handling Defeasibilities in Action Domains,Metatheory of actions: beyond consistency,2
+171,Anticipatory Guidance of Plot,"A Comparison of Different Cognitive Paradigms Using Simple Animats in a
+  Virtual Laboratory, with Implications to the Notion of Cognition",2
+171,Anticipatory Guidance of Plot,Can an Organism Adapt Itself to Unforeseen Circumstances?,2
+171,Anticipatory Guidance of Plot,Using RDF to Model the Structure and Process of Systems,2
+172,"Abduction, ASP and Open Logic Programs","Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",4
+172,"Abduction, ASP and Open Logic Programs",Smodels: A System for Answer Set Programming,3
+172,"Abduction, ASP and Open Logic Programs","Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",2
+172,"Abduction, ASP and Open Logic Programs",Practical Methods for Proving Termination of General Logic Programs,2
+172,"Abduction, ASP and Open Logic Programs",A Compiler for Ordered Logic Programs,2
+173,Domain-Dependent Knowledge in Answer Set Planning,Logic Programs with Compiled Preferences,5
+173,Domain-Dependent Knowledge in Answer Set Planning,Open Answer Set Programming with Guarded Programs,5
+173,Domain-Dependent Knowledge in Answer Set Planning,Fages' Theorem and Answer Set Programming,4
+173,Domain-Dependent Knowledge in Answer Set Planning,A semantic framework for preference handling in answer set programming,4
+173,Domain-Dependent Knowledge in Answer Set Planning,Normal forms for Answer Sets Programming,4
+177,Logic Programming with Ordered Disjunction,A Compiler for Ordered Logic Programs,2
+177,Logic Programming with Ordered Disjunction,Smodels: A System for Answer Set Programming,2
+177,Logic Programming with Ordered Disjunction,Fages' Theorem and Answer Set Programming,2
+177,Logic Programming with Ordered Disjunction,A semantic framework for preference handling in answer set programming,2
+177,Logic Programming with Ordered Disjunction,Normal forms for Answer Sets Programming,2
+179,Modeling Complex Domains of Actions and Change,Knowledge And The Action Description Language A,2
+180,Value Based Argumentation Frameworks,Fusion of qualitative beliefs using DSmT,2
+181,"Preferred well-founded semantics for logic programming by alternating
+  fixpoints: Preliminary report","Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",3
+181,"Preferred well-founded semantics for logic programming by alternating
+  fixpoints: Preliminary report","Comparisons and Computation of Well-founded Semantics for Disjunctive
+  Logic Programs",3
+181,"Preferred well-founded semantics for logic programming by alternating
+  fixpoints: Preliminary report",A Compiler for Ordered Logic Programs,2
+181,"Preferred well-founded semantics for logic programming by alternating
+  fixpoints: Preliminary report",Logic Programs with Compiled Preferences,2
+181,"Preferred well-founded semantics for logic programming by alternating
+  fixpoints: Preliminary report",A Framework for Compiling Preferences in Logic Programs,2
+182,Embedding Default Logic in Propositional Argumentation Systems,Uniform semantic treatment of default and autoepistemic logics,2
+182,Embedding Default Logic in Propositional Argumentation Systems,"Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",2
+182,Embedding Default Logic in Propositional Argumentation Systems,"On the existence and multiplicity of extensions in dialectical
+  argumentation",2
+182,Embedding Default Logic in Propositional Argumentation Systems,Defeasible Logic Programming: An Argumentative Approach,2
+182,Embedding Default Logic in Propositional Argumentation Systems,"N-norm and N-conorm in Neutrosophic Logic and Set, and the Neutrosophic
+  Topologies",2
+183,"On the existence and multiplicity of extensions in dialectical
+  argumentation",Embedding Default Logic in Propositional Argumentation Systems,2
+183,"On the existence and multiplicity of extensions in dialectical
+  argumentation",Defeasible Logic Programming: An Argumentative Approach,2
+187,Knowledge Representation,Decidable Reasoning in Terminological Knowledge Representation Systems,3
+187,Knowledge Representation,Translating between Horn Representations and their Characteristic Models,2
+187,Knowledge Representation,SLDNFA-system,2
+187,Knowledge Representation,Granularity-Adaptive Proof Presentation,2
+188,"Causes and Explanations: A Structural-Model Approach. Part II:
+  Explanations","Causes and Explanations: A Structural-Model Approach, Part I: Causes",10
+188,"Causes and Explanations: A Structural-Model Approach. Part II:
+  Explanations",Decision-Theoretic Foundations for Causal Reasoning,2
+188,"Causes and Explanations: A Structural-Model Approach. Part II:
+  Explanations","Estimation of linear, non-gaussian causal models in the presence of
+  confounding latent variables",2
+188,"Causes and Explanations: A Structural-Model Approach. Part II:
+  Explanations",Ontology-based inference for causal explanation,2
+189,Reasoning about Evolving Nonmonotonic Knowledge Bases,"Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",3
+189,Reasoning about Evolving Nonmonotonic Knowledge Bases,Logic Programs with Compiled Preferences,3
+189,Reasoning about Evolving Nonmonotonic Knowledge Bases,On Properties of Update Sequences Based on Causal Rejection,3
+189,Reasoning about Evolving Nonmonotonic Knowledge Bases,A Framework for Compiling Preferences in Logic Programs,3
+189,Reasoning about Evolving Nonmonotonic Knowledge Bases,Decidable Reasoning in Terminological Knowledge Representation Systems,2
+190,"A Comparison of Different Cognitive Paradigms Using Simple Animats in a
+  Virtual Laboratory, with Implications to the Notion of Cognition",Anticipatory Guidance of Plot,2
+190,"A Comparison of Different Cognitive Paradigms Using Simple Animats in a
+  Virtual Laboratory, with Implications to the Notion of Cognition",Recycling Computed Answers in Rewrite Systems for Abduction,2
+190,"A Comparison of Different Cognitive Paradigms Using Simple Animats in a
+  Virtual Laboratory, with Implications to the Notion of Cognition",Can an Organism Adapt Itself to Unforeseen Circumstances?,2
+190,"A Comparison of Different Cognitive Paradigms Using Simple Animats in a
+  Virtual Laboratory, with Implications to the Notion of Cognition",Using RDF to Model the Structure and Process of Systems,2
+191,Revising Partially Ordered Beliefs,Optimal Belief Revision,2
+191,Revising Partially Ordered Beliefs,A Consistency-Based Model for Belief Change: Preliminary Report,2
+191,Revising Partially Ordered Beliefs,SATEN: An Object-Oriented Web-Based Revision and Extraction Engine,2
+191,Revising Partially Ordered Beliefs,Distance Semantics for Belief Revision,2
+191,Revising Partially Ordered Beliefs,Belief Revision and Rational Inference,2
+192,"Can the whole brain be simpler than its ""parts""?","Functional Brain Imaging with Multi-Objective Multi-Modal Evolutionary
+  Optimization",2
+194,"Dynamic Adjustment of the Motivation Degree in an Action Selection
+  Mechanism","A Model for Combination of External and Internal Stimuli in the Action
+  Selection of an Autonomous Agent",5
+194,"Dynamic Adjustment of the Motivation Degree in an Action Selection
+  Mechanism",Action Selection Properties in a Software Simulated Agent,4
+195,Action Selection Properties in a Software Simulated Agent,"A Model for Combination of External and Internal Stimuli in the Action
+  Selection of an Autonomous Agent",5
+195,Action Selection Properties in a Software Simulated Agent,"Dynamic Adjustment of the Motivation Degree in an Action Selection
+  Mechanism",4
+196,"A Model for Combination of External and Internal Stimuli in the Action
+  Selection of an Autonomous Agent","Dynamic Adjustment of the Motivation Degree in an Action Selection
+  Mechanism",5
+196,"A Model for Combination of External and Internal Stimuli in the Action
+  Selection of an Autonomous Agent",Action Selection Properties in a Software Simulated Agent,5
+197,Searching for Plannable Domains can Speed up Reinforcement Learning,Reinforcement Learning: A Survey,3
+197,Searching for Plannable Domains can Speed up Reinforcement Learning,"Truncating Temporal Differences: On the Efficient Implementation of
+  TD(lambda) for Reinforcement Learning",2
+199,"Comparisons and Computation of Well-founded Semantics for Disjunctive
+  Logic Programs","Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",6
+199,"Comparisons and Computation of Well-founded Semantics for Disjunctive
+  Logic Programs","Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",4
+199,"Comparisons and Computation of Well-founded Semantics for Disjunctive
+  Logic Programs",Practical Methods for Proving Termination of General Logic Programs,3
+199,"Comparisons and Computation of Well-founded Semantics for Disjunctive
+  Logic Programs","Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",3
+199,"Comparisons and Computation of Well-founded Semantics for Disjunctive
+  Logic Programs",Logic Programs with Compiled Preferences,3
+200,A semantic framework for preference handling in answer set programming,Open Answer Set Programming with Guarded Programs,7
+200,A semantic framework for preference handling in answer set programming,Fages' Theorem and Answer Set Programming,6
+200,A semantic framework for preference handling in answer set programming,Normal forms for Answer Sets Programming,6
+200,A semantic framework for preference handling in answer set programming,An Application of Proof-Theory in Answer Set Programming,6
+200,A semantic framework for preference handling in answer set programming,Logic Programs with Compiled Preferences,5
+201,Defeasible Logic Programming: An Argumentative Approach,Parametric Connectives in Disjunctive Logic Programming,3
+201,Defeasible Logic Programming: An Argumentative Approach,Integrating Defeasible Argumentation and Machine Learning Techniques,3
+201,Defeasible Logic Programming: An Argumentative Approach,Propositional Defeasible Logic has Linear Complexity,3
+201,Defeasible Logic Programming: An Argumentative Approach,Pruning Search Space in Defeasible Argumentation,3
+201,Defeasible Logic Programming: An Argumentative Approach,Logic programming with social features,3
+203,Kalman-filtering using local interactions,"Emotion: Appraisal-coping model for the ""Cascades"" problem",2
+204,On the Notion of Cognition,Hacia una teoria de unificacion para los comportamientos cognitivos,2
+205,Unfolding Partiality and Disjunctions in Stable Model Semantics,Smodels: A System for Answer Set Programming,4
+205,Unfolding Partiality and Disjunctions in Stable Model Semantics,"Achieving compositionality of the stable model semantics for Smodels
+  programs",4
+205,Unfolding Partiality and Disjunctions in Stable Model Semantics,Epistemic Foundation of Stable Model Semantics,3
+205,Unfolding Partiality and Disjunctions in Stable Model Semantics,A Hierarchy of Tractable Subsets for Computing Stable Models,2
+205,Unfolding Partiality and Disjunctions in Stable Model Semantics,"Comparisons and Computation of Well-founded Semantics for Disjunctive
+  Logic Programs",2
+207,A Framework for Searching AND/OR Graphs with Cycles,Quantum Computing and Phase Transitions in Combinatorial Search,2
+207,A Framework for Searching AND/OR Graphs with Cycles,Online Search Cost Estimation for SAT Solvers,2
+208,On rho in a Decision-Theoretic Apparatus of Dempster-Shafer Theory,"Great Expectations. Part I: On the Customizability of Generalized
+  Expected Utility",3
+208,On rho in a Decision-Theoretic Apparatus of Dempster-Shafer Theory,"Great Expectations. Part II: Generalized Expected Utility as a Universal
+  Decision Rule",3
+208,On rho in a Decision-Theoretic Apparatus of Dempster-Shafer Theory,Convergence of Expected Utility for Universal AI,3
+208,On rho in a Decision-Theoretic Apparatus of Dempster-Shafer Theory,"Adaptative combination rule and proportional conflict redistribution
+  rule for information fusion",2
+209,Updating beliefs with incomplete observations,Updating Sets of Probabilities,3
+209,Updating beliefs with incomplete observations,Node discovery problem for a social network,2
+212,"Probabilistic Reasoning as Information Compression by Multiple
+  Alignment, Unification and Search: An Introduction and Overview","Unsupervised Grammar Induction in a Framework of Information Compression
+  by Multiple Alignment, Unification and Search",5
+212,"Probabilistic Reasoning as Information Compression by Multiple
+  Alignment, Unification and Search: An Introduction and Overview","Information Compression by Multiple Alignment, Unification and Search as
+  a Unifying Principle in Computing and Cognition",4
+212,"Probabilistic Reasoning as Information Compression by Multiple
+  Alignment, Unification and Search: An Introduction and Overview",Unifying Computing and Cognition: The SP Theory and its Applications,4
+213,"Information Compression by Multiple Alignment, Unification and Search as
+  a Unifying Principle in Computing and Cognition","Unsupervised Grammar Induction in a Framework of Information Compression
+  by Multiple Alignment, Unification and Search",5
+213,"Information Compression by Multiple Alignment, Unification and Search as
+  a Unifying Principle in Computing and Cognition",Unifying Computing and Cognition: The SP Theory and its Applications,5
+213,"Information Compression by Multiple Alignment, Unification and Search as
+  a Unifying Principle in Computing and Cognition","Probabilistic Reasoning as Information Compression by Multiple
+  Alignment, Unification and Search: An Introduction and Overview",4
+214,"Integrating cardinal direction relations and other orientation relations
+  in Qualitative Spatial Reasoning","Integrating existing cone-shaped and projection-based cardinal direction
+  relations and a TCSP-like decidable generalisation",4
+214,"Integrating cardinal direction relations and other orientation relations
+  in Qualitative Spatial Reasoning",Relation Variables in Qualitative Spatial Reasoning,3
+214,"Integrating cardinal direction relations and other orientation relations
+  in Qualitative Spatial Reasoning",Reasoning about Cardinal Directions between Extended Objects,2
+214,"Integrating cardinal direction relations and other orientation relations
+  in Qualitative Spatial Reasoning","Oriented Straight Line Segment Algebra: Qualitative Spatial Reasoning
+  about Oriented Objects",2
+216,From Statistical Knowledge Bases to Degrees of Belief,Random Worlds and Maximum Entropy,4
+216,From Statistical Knowledge Bases to Degrees of Belief,Probabilistic Default Reasoning with Conditional Constraints,4
+216,From Statistical Knowledge Bases to Degrees of Belief,Another perspective on Default Reasoning,3
+216,From Statistical Knowledge Bases to Degrees of Belief,Uniform semantic treatment of default and autoepistemic logics,2
+216,From Statistical Knowledge Bases to Degrees of Belief,Brainstorm/J: a Java Framework for Intelligent Agents,2
+218,Quantifying and Visualizing Attribute Interactions,A Model for Managing Collections of Patterns,2
+221,The Algebra of Utility Inference,An information theory for preferences,2
+221,The Algebra of Utility Inference,"Great Expectations. Part I: On the Customizability of Generalized
+  Expected Utility",2
+221,The Algebra of Utility Inference,"Convergence of Expected Utilities with Algorithmic Probability
+  Distributions",2
+221,The Algebra of Utility Inference,Convergence of Expected Utility for Universal AI,2
+222,An information theory for preferences,The Algebra of Utility Inference,2
+222,An information theory for preferences,"Great Expectations. Part I: On the Customizability of Generalized
+  Expected Utility",2
+222,An information theory for preferences,"Convergence of Expected Utilities with Algorithmic Probability
+  Distributions",2
+222,An information theory for preferences,Convergence of Expected Utility for Universal AI,2
+223,"Abductive Logic Programs with Penalization: Semantics, Complexity and
+  Implementation",A general approach to belief change in answer set programming,4
+223,"Abductive Logic Programs with Penalization: Semantics, Complexity and
+  Implementation","Translating OWL and Semantic Web Rules into Prolog: Moving Toward
+  Description Logic Programs",3
+223,"Abductive Logic Programs with Penalization: Semantics, Complexity and
+  Implementation",Logic programs with propositional connectives and aggregates,3
+223,"Abductive Logic Programs with Penalization: Semantics, Complexity and
+  Implementation","Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",2
+223,"Abductive Logic Programs with Penalization: Semantics, Complexity and
+  Implementation",Practical Methods for Proving Termination of General Logic Programs,2
+224,"Local-search techniques for propositional logic extended with
+  cardinality constraints",WSAT(cc) - a fast local-search ASP solver,4
+224,"Local-search techniques for propositional logic extended with
+  cardinality constraints",On the relationship between fuzzy logic and four-valued relevance logic,2
+225,WSAT(cc) - a fast local-search ASP solver,"Local-search techniques for propositional logic extended with
+  cardinality constraints",4
+226,Utility-Probability Duality,"Convergence of Expected Utilities with Algorithmic Probability
+  Distributions",4
+226,Utility-Probability Duality,"Approximate Discrete Probability Distribution Representation using a
+  Multi-Resolution Binary Tree",2
+226,Utility-Probability Duality,"N-norm and N-conorm in Neutrosophic Logic and Set, and the Neutrosophic
+  Topologies",2
+226,Utility-Probability Duality,Convergence of Expected Utility for Universal AI,2
+227,Parametric Connectives in Disjunctive Logic Programming,"Comparisons and Computation of Well-founded Semantics for Disjunctive
+  Logic Programs",3
+227,Parametric Connectives in Disjunctive Logic Programming,Defeasible Logic Programming: An Argumentative Approach,3
+227,Parametric Connectives in Disjunctive Logic Programming,Logic programming with social features,3
+227,Parametric Connectives in Disjunctive Logic Programming,A general approach to belief change in answer set programming,3
+227,Parametric Connectives in Disjunctive Logic Programming,ACLP: Integrating Abduction and Constraint Solving,2
+229,"Great Expectations. Part I: On the Customizability of Generalized
+  Expected Utility","Great Expectations. Part II: Generalized Expected Utility as a Universal
+  Decision Rule",6
+229,"Great Expectations. Part I: On the Customizability of Generalized
+  Expected Utility",On rho in a Decision-Theoretic Apparatus of Dempster-Shafer Theory,3
+229,"Great Expectations. Part I: On the Customizability of Generalized
+  Expected Utility",Convergence of Expected Utility for Universal AI,3
+229,"Great Expectations. Part I: On the Customizability of Generalized
+  Expected Utility",The Algebra of Utility Inference,2
+229,"Great Expectations. Part I: On the Customizability of Generalized
+  Expected Utility",An information theory for preferences,2
+230,"Great Expectations. Part II: Generalized Expected Utility as a Universal
+  Decision Rule","Great Expectations. Part I: On the Customizability of Generalized
+  Expected Utility",6
+230,"Great Expectations. Part II: Generalized Expected Utility as a Universal
+  Decision Rule",Convergence of Expected Utility for Universal AI,4
+230,"Great Expectations. Part II: Generalized Expected Utility as a Universal
+  Decision Rule",On rho in a Decision-Theoretic Apparatus of Dempster-Shafer Theory,3
+230,"Great Expectations. Part II: Generalized Expected Utility as a Universal
+  Decision Rule",Further Experimental Evidence against the Utility of Occam's Razor,2
+231,"Unsupervised Grammar Induction in a Framework of Information Compression
+  by Multiple Alignment, Unification and Search","Probabilistic Reasoning as Information Compression by Multiple
+  Alignment, Unification and Search: An Introduction and Overview",5
+231,"Unsupervised Grammar Induction in a Framework of Information Compression
+  by Multiple Alignment, Unification and Search","Information Compression by Multiple Alignment, Unification and Search as
+  a Unifying Principle in Computing and Cognition",5
+231,"Unsupervised Grammar Induction in a Framework of Information Compression
+  by Multiple Alignment, Unification and Search",Unifying Computing and Cognition: The SP Theory and its Applications,4
+232,"Integrating existing cone-shaped and projection-based cardinal direction
+  relations and a TCSP-like decidable generalisation","Integrating cardinal direction relations and other orientation relations
+  in Qualitative Spatial Reasoning",4
+232,"Integrating existing cone-shaped and projection-based cardinal direction
+  relations and a TCSP-like decidable generalisation",Reasoning about Cardinal Directions between Extended Objects,2
+233,Modeling Object Oriented Constraint Programs in Z,Stochastic Constraint Programming: A Scenario-Based Approach,2
+233,Modeling Object Oriented Constraint Programs in Z,Stochastic Constraint Programming,2
+235,Weight Constraints as Nested Expressions,Logic Programs with Compiled Preferences,3
+235,Weight Constraints as Nested Expressions,Smodels: A System for Answer Set Programming,3
+235,Weight Constraints as Nested Expressions,Normal forms for Answer Sets Programming,3
+235,Weight Constraints as Nested Expressions,"Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",3
+235,Weight Constraints as Nested Expressions,Fages' Theorem and Answer Set Programming,2
+236,On the Expressibility of Stable Logic Programming,ACLP: Integrating Abduction and Constraint Solving,2
+236,On the Expressibility of Stable Logic Programming,"Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison",2
+236,On the Expressibility of Stable Logic Programming,Defeasible Logic Programming: An Argumentative Approach,2
+236,On the Expressibility of Stable Logic Programming,"Abductive Logic Programs with Penalization: Semantics, Complexity and
+  Implementation",2
+236,On the Expressibility of Stable Logic Programming,Parametric Connectives in Disjunctive Logic Programming,2
+237,Unifying Computing and Cognition: The SP Theory and its Applications,"Information Compression by Multiple Alignment, Unification and Search as
+  a Unifying Principle in Computing and Cognition",5
+237,Unifying Computing and Cognition: The SP Theory and its Applications,"Probabilistic Reasoning as Information Compression by Multiple
+  Alignment, Unification and Search: An Introduction and Overview",4
+237,Unifying Computing and Cognition: The SP Theory and its Applications,"Unsupervised Grammar Induction in a Framework of Information Compression
+  by Multiple Alignment, Unification and Search",4
+238,Recycling Computed Answers in Rewrite Systems for Abduction,"A Comparison of Different Cognitive Paradigms Using Simple Animats in a
+  Virtual Laboratory, with Implications to the Notion of Cognition",2
+240,Integrating Defeasible Argumentation and Machine Learning Techniques,Rule-based Machine Learning Methods for Functional Prediction,3
+240,Integrating Defeasible Argumentation and Machine Learning Techniques,Defeasible Logic Programming: An Argumentative Approach,3
+240,Integrating Defeasible Argumentation and Machine Learning Techniques,Pruning Search Space in Defeasible Argumentation,3
+240,Integrating Defeasible Argumentation and Machine Learning Techniques,Restart Strategy Selection using Machine Learning Techniques,3
+240,Integrating Defeasible Argumentation and Machine Learning Techniques,Operations for Learning with Graphical Models,2
+241,Epistemic Foundation of Stable Model Semantics,Smodels: A System for Answer Set Programming,3
+241,Epistemic Foundation of Stable Model Semantics,Unfolding Partiality and Disjunctions in Stable Model Semantics,3
+241,Epistemic Foundation of Stable Model Semantics,"Achieving compositionality of the stable model semantics for Smodels
+  programs",3
+241,Epistemic Foundation of Stable Model Semantics,Distance Semantics for Belief Revision,2
+243,Parametric external predicates for the DLV System,"Toward the Implementation of Functions in the DLV System (Preliminary
+  Technical Report)",2
+244,"Toward the Implementation of Functions in the DLV System (Preliminary
+  Technical Report)",Parametric external predicates for the DLV System,2
+244,"Toward the Implementation of Functions in the DLV System (Preliminary
+  Technical Report)",Fact Sheet on Semantic Web,2
+244,"Toward the Implementation of Functions in the DLV System (Preliminary
+  Technical Report)",Some improved results on communication between information systems,2
+245,Knowledge And The Action Description Language A,Decidable Reasoning in Terminological Knowledge Representation Systems,2
+245,Knowledge And The Action Description Language A,Modeling Complex Domains of Actions and Change,2
+245,Knowledge And The Action Description Language A,Regression with respect to sensing actions and partial states,2
+245,Knowledge And The Action Description Language A,"A State-Based Regression Formulation for Domains with Sensing
+  Actions<br> and Incomplete Information",2
+246,"A Comparative Study of Fuzzy Classification Methods on Breast Cancer
+  Data",Fuzzy Approaches to Abductive Inference,2
+247,Intelligent Systems: Architectures and Perspectives,Can an Organism Adapt Itself to Unforeseen Circumstances?,3
+247,Intelligent Systems: Architectures and Perspectives,Conscious Intelligent Systems - Part 1 : I X I,3
+247,Intelligent Systems: Architectures and Perspectives,"Conscious Intelligent Systems - Part II - Mind, Thought, Language and
+  Understanding",3
+247,Intelligent Systems: Architectures and Perspectives,Modeling Chaotic Behavior of Stock Indices Using Intelligent Paradigms,2
+247,Intelligent Systems: Architectures and Perspectives,Phase transition in SONFIS&SORST,2
+248,A Neuro-Fuzzy Approach for Modelling Electricity Demand in Victoria,Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques,3
+249,Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques,A Neuro-Fuzzy Approach for Modelling Electricity Demand in Victoria,3
+249,Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques,Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,3
+249,Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques,Meta-Learning Evolutionary Artificial Neural Networks,3
+249,Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques,"Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms",3
+249,Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques,"Response Prediction of Structural System Subject to Earthquake Motions
+  using Artificial Neural Network",3
+250,Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,Meta-Learning Evolutionary Artificial Neural Networks,4
+250,Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,"Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms",4
+250,Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques,3
+250,Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,"EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",3
+250,Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,Traffic Accident Analysis Using Decision Trees and Neural Networks,3
+251,DCT Based Texture Classification Using Soft Computing Approach,"Short Term Load Forecasting Models in Czech Republic Using Soft
+  Computing Paradigms",2
+251,DCT Based Texture Classification Using Soft Computing Approach,Pattern Recognition Theory of Mind,2
+251,DCT Based Texture Classification Using Soft Computing Approach,A Soft Computing Model for Physicians' Decision Process,2
+254,Data Mining Approach for Analyzing Call Center Performance,"Fuzzy Artmap and Neural Network Approach to Online Processing of Inputs
+  with Missing Values",2
+254,Data Mining Approach for Analyzing Call Center Performance,"A Leaf Recognition Algorithm for Plant Classification Using
+  Probabilistic Neural Network",2
+255,Modeling Chaotic Behavior of Stock Indices Using Intelligent Paradigms,Intelligent Systems: Architectures and Perspectives,2
+255,Modeling Chaotic Behavior of Stock Indices Using Intelligent Paradigms,Can an Organism Adapt Itself to Unforeseen Circumstances?,2
+255,Modeling Chaotic Behavior of Stock Indices Using Intelligent Paradigms,Conscious Intelligent Systems - Part 1 : I X I,2
+255,Modeling Chaotic Behavior of Stock Indices Using Intelligent Paradigms,"Conscious Intelligent Systems - Part II - Mind, Thought, Language and
+  Understanding",2
+257,Meta-Learning Evolutionary Artificial Neural Networks,"Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms",5
+257,Meta-Learning Evolutionary Artificial Neural Networks,Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,4
+257,Meta-Learning Evolutionary Artificial Neural Networks,Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques,3
+257,Meta-Learning Evolutionary Artificial Neural Networks,"EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",3
+257,Meta-Learning Evolutionary Artificial Neural Networks,Traffic Accident Analysis Using Decision Trees and Neural Networks,3
+259,A Concurrent Fuzzy-Neural Network Approach for Decision Support Systems,Decision Support Systems Using Intelligent Paradigms,9
+261,Business Intelligence from Web Usage Mining,"Adaptation of Mamdani Fuzzy Inference System Using Neuro - Genetic
+  Approach for Tactical Air Combat Decision Support System",2
+261,Business Intelligence from Web Usage Mining,"EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",2
+261,Business Intelligence from Web Usage Mining,Terrorism Event Classification Using Fuzzy Inference Systems,2
+262,"Adaptation of Mamdani Fuzzy Inference System Using Neuro - Genetic
+  Approach for Tactical Air Combat Decision Support System",Decision Support Systems Using Intelligent Paradigms,4
+262,"Adaptation of Mamdani Fuzzy Inference System Using Neuro - Genetic
+  Approach for Tactical Air Combat Decision Support System","Multiagent Approach for the Representation of Information in a Decision
+  Support System",4
+262,"Adaptation of Mamdani Fuzzy Inference System Using Neuro - Genetic
+  Approach for Tactical Air Combat Decision Support System",Decision Support Systems (DSS) in Construction Tendering Processes,4
+262,"Adaptation of Mamdani Fuzzy Inference System Using Neuro - Genetic
+  Approach for Tactical Air Combat Decision Support System",Business Intelligence from Web Usage Mining,2
+262,"Adaptation of Mamdani Fuzzy Inference System Using Neuro - Genetic
+  Approach for Tactical Air Combat Decision Support System","EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",2
+263,"EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",Terrorism Event Classification Using Fuzzy Inference Systems,4
+263,"EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,3
+263,"EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",Meta-Learning Evolutionary Artificial Neural Networks,3
+263,"EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation","Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms",3
+263,"EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",Operations for Learning with Graphical Models,2
+264,"Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms",Meta-Learning Evolutionary Artificial Neural Networks,5
+264,"Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms",Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,4
+264,"Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms",Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques,3
+264,"Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms","EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",3
+264,"Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms",Traffic Accident Analysis Using Decision Trees and Neural Networks,3
+266,Traffic Accident Analysis Using Decision Trees and Neural Networks,Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,3
+266,Traffic Accident Analysis Using Decision Trees and Neural Networks,Meta-Learning Evolutionary Artificial Neural Networks,3
+266,Traffic Accident Analysis Using Decision Trees and Neural Networks,"Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms",3
+266,Traffic Accident Analysis Using Decision Trees and Neural Networks,"Exploring the Decision Forest: An Empirical Investigation of Occam's
+  Razor in Decision Tree Induction",2
+266,Traffic Accident Analysis Using Decision Trees and Neural Networks,A System for Induction of Oblique Decision Trees,2
+267,"Short Term Load Forecasting Models in Czech Republic Using Soft
+  Computing Paradigms",DCT Based Texture Classification Using Soft Computing Approach,2
+267,"Short Term Load Forecasting Models in Czech Republic Using Soft
+  Computing Paradigms",A Soft Computing Model for Physicians' Decision Process,2
+268,Decision Support Systems Using Intelligent Paradigms,A Concurrent Fuzzy-Neural Network Approach for Decision Support Systems,9
+268,Decision Support Systems Using Intelligent Paradigms,"Adaptation of Mamdani Fuzzy Inference System Using Neuro - Genetic
+  Approach for Tactical Air Combat Decision Support System",4
+268,Decision Support Systems Using Intelligent Paradigms,"Multiagent Approach for the Representation of Information in a Decision
+  Support System",3
+268,Decision Support Systems Using Intelligent Paradigms,Decision Support Systems (DSS) in Construction Tendering Processes,3
+268,Decision Support Systems Using Intelligent Paradigms,Indonesian Earthquake Decision Support System,2
+269,Regression with respect to sensing actions and partial states,"A State-Based Regression Formulation for Domains with Sensing
+  Actions<br> and Incomplete Information",7
+269,Regression with respect to sensing actions and partial states,Knowledge And The Action Description Language A,2
+269,Regression with respect to sensing actions and partial states,"Reasoning and Planning with Sensing Actions, Incomplete Information, and
+  Static Causal Laws using Answer Set Programming",2
+269,Regression with respect to sensing actions and partial states,Semi-Myopic Sensing Plans for Value Optimization,2
+270,Propositional Defeasible Logic has Linear Complexity,Defeasible Logic Programming: An Argumentative Approach,3
+270,Propositional Defeasible Logic has Linear Complexity,"Translating OWL and Semantic Web Rules into Prolog: Moving Toward
+  Description Logic Programs",2
+271,Pruning Search Space in Defeasible Argumentation,Defeasible Logic Programming: An Argumentative Approach,3
+271,Pruning Search Space in Defeasible Argumentation,Integrating Defeasible Argumentation and Machine Learning Techniques,3
+276,Decomposition Based Search - A theoretical and experimental evaluation,Decomposition During Search for Propagation-Based Constraint Solvers,2
+277,Postponing Branching Decisions,"Certainty Closure: Reliable Constraint Reasoning with Incomplete or
+  Erroneous Data",2
+279,A Simple Proportional Conflict Redistribution Rule,Proportional Conflict Redistribution Rules for Information Fusion,5
+279,A Simple Proportional Conflict Redistribution Rule,"A new generalization of the proportional conflict redistribution rule
+  stable in terms of decision",5
+279,A Simple Proportional Conflict Redistribution Rule,"Importance of Sources using the Repeated Fusion Method and the
+  Proportional Conflict Redistribution Rules #5 and #6",5
+279,A Simple Proportional Conflict Redistribution Rule,"Adaptative combination rule and proportional conflict redistribution
+  rule for information fusion",4
+279,A Simple Proportional Conflict Redistribution Rule,"An In-Depth Look at Information Fusion Rules & the Unification of Fusion
+  Theories",2
+281,FLUX: A Logic Programming Method for Reasoning Agents,ACLP: Integrating Abduction and Constraint Solving,2
+281,FLUX: A Logic Programming Method for Reasoning Agents,Defeasible Logic Programming: An Argumentative Approach,2
+281,FLUX: A Logic Programming Method for Reasoning Agents,Parametric Connectives in Disjunctive Logic Programming,2
+281,FLUX: A Logic Programming Method for Reasoning Agents,On the Expressibility of Stable Logic Programming,2
+281,FLUX: A Logic Programming Method for Reasoning Agents,Logic programming with social features,2
+282,"Cauchy Annealing Schedule: An Annealing Schedule for Boltzmann Selection
+  Scheme in Evolutionary Algorithms",Anisotropic selection in cellular genetic algorithms,2
+283,Proportional Conflict Redistribution Rules for Information Fusion,"A new generalization of the proportional conflict redistribution rule
+  stable in terms of decision",6
+283,Proportional Conflict Redistribution Rules for Information Fusion,A Simple Proportional Conflict Redistribution Rule,5
+283,Proportional Conflict Redistribution Rules for Information Fusion,"Importance of Sources using the Repeated Fusion Method and the
+  Proportional Conflict Redistribution Rules #5 and #6",5
+283,Proportional Conflict Redistribution Rules for Information Fusion,"Adaptative combination rule and proportional conflict redistribution
+  rule for information fusion",4
+283,Proportional Conflict Redistribution Rules for Information Fusion,"An In-Depth Look at Information Fusion Rules & the Unification of Fusion
+  Theories",3
+285,Unification of Fusion Theories,Tractability of Theory Patching,2
+286,Normal forms for Answer Sets Programming,Fages' Theorem and Answer Set Programming,6
+286,Normal forms for Answer Sets Programming,A semantic framework for preference handling in answer set programming,6
+286,Normal forms for Answer Sets Programming,"Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",6
+286,Normal forms for Answer Sets Programming,Open Answer Set Programming with Guarded Programs,6
+286,Normal forms for Answer Sets Programming,Logic Programs with Compiled Preferences,5
+287,"An In-Depth Look at Information Fusion Rules & the Unification of Fusion
+  Theories",Proportional Conflict Redistribution Rules for Information Fusion,3
+287,"An In-Depth Look at Information Fusion Rules & the Unification of Fusion
+  Theories",A Simple Proportional Conflict Redistribution Rule,2
+287,"An In-Depth Look at Information Fusion Rules & the Unification of Fusion
+  Theories","Adaptative combination rule and proportional conflict redistribution
+  rule for information fusion",2
+287,"An In-Depth Look at Information Fusion Rules & the Unification of Fusion
+  Theories","A new generalization of the proportional conflict redistribution rule
+  stable in terms of decision",2
+287,"An In-Depth Look at Information Fusion Rules & the Unification of Fusion
+  Theories","Importance of Sources using the Repeated Fusion Method and the
+  Proportional Conflict Redistribution Rules #5 and #6",2
+291,"Generating Conditional Probabilities for Bayesian Networks: Easing the
+  Knowledge Acquisition Problem",Exploiting Causal Independence in Bayesian Network Inference,2
+294,"The Combination of Paradoxical, Uncertain, and Imprecise Sources of
+  Information based on DSmT and Neutro-Fuzzy Inference","An Introduction to the DSm Theory for the Combination of Paradoxical,
+  Uncertain, and Imprecise Sources of Information",15
+294,"The Combination of Paradoxical, Uncertain, and Imprecise Sources of
+  Information based on DSmT and Neutro-Fuzzy Inference",An introduction to DSmT,13
+294,"The Combination of Paradoxical, Uncertain, and Imprecise Sources of
+  Information based on DSmT and Neutro-Fuzzy Inference",DSmT: A new paradigm shift for information fusion,6
+295,"Learning to automatically detect features for mobile robots using
+  second-order Hidden Markov Models",A study of structural properties on profiles HMMs,2
+296,Inferring knowledge from a large semantic network,Using RDF to Model the Structure and Process of Systems,3
+296,Inferring knowledge from a large semantic network,Mean Field Theory for Sigmoid Belief Networks,2
+296,Inferring knowledge from a large semantic network,Modeling Computations in a Semantic Network,2
+297,"Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",Normal forms for Answer Sets Programming,6
+297,"Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",Logic Programs with Compiled Preferences,5
+297,"Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",Smodels: A System for Answer Set Programming,5
+297,"Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",Fages' Theorem and Answer Set Programming,5
+297,"Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",A semantic framework for preference handling in answer set programming,5
+301,Corpus based Enrichment of GermaNet Verb Frames,Context Related Derivation of Word Senses,5
+302,Context Related Derivation of Word Senses,Corpus based Enrichment of GermaNet Verb Frames,5
+306,"Estimating Classification Uncertainty of Bayesian Decision Tree
+  Technique on Financial Data","Comparison of the Bayesian and Randomised Decision Tree Ensembles within
+  an Uncertainty Envelope Technique",4
+307,"Comparison of the Bayesian and Randomised Decision Tree Ensembles within
+  an Uncertainty Envelope Technique","Estimating Classification Uncertainty of Bayesian Decision Tree
+  Technique on Financial Data",4
+308,Proceedings of the Pacific Knowledge Acquisition Workshop 2004,A Hierarchy of Tractable Subsets for Computing Stable Models,2
+308,Proceedings of the Pacific Knowledge Acquisition Workshop 2004,Adaptation Knowledge Discovery from a Case Base,2
+308,Proceedings of the Pacific Knowledge Acquisition Workshop 2004,Case Base Mining for Adaptation Knowledge Acquisition,2
+311,A Constrained Object Model for Configuration Based Workflow Composition,Enhanced Integrated Scoring for Cleaning Dirty Texts,3
+315,Planning with Preferences using Logic Programming,Least Generalizations and Greatest Specializations of Sets of Clauses,2
+315,Planning with Preferences using Logic Programming,Logic Programs with Compiled Preferences,2
+315,Planning with Preferences using Logic Programming,A Framework for Compiling Preferences in Logic Programs,2
+315,Planning with Preferences using Logic Programming,Defeasible Logic Programming: An Argumentative Approach,2
+315,Planning with Preferences using Logic Programming,"Abductive Logic Programs with Penalization: Semantics, Complexity and
+  Implementation",2
+316,"Clustering Mixed Numeric and Categorical Data: A Cluster Ensemble
+  Approach",K-Histograms: An Efficient Clustering Algorithm for Categorical Dataset,5
+316,"Clustering Mixed Numeric and Categorical Data: A Cluster Ensemble
+  Approach",Approximation Algorithms for K-Modes Clustering,3
+316,"Clustering Mixed Numeric and Categorical Data: A Cluster Ensemble
+  Approach",Operations for Learning with Graphical Models,2
+316,"Clustering Mixed Numeric and Categorical Data: A Cluster Ensemble
+  Approach",Iterative Optimization and Simplification of Hierarchical Clusterings,2
+316,"Clustering Mixed Numeric and Categorical Data: A Cluster Ensemble
+  Approach",A Model for Managing Collections of Patterns,2
+317,K-Histograms: An Efficient Clustering Algorithm for Categorical Dataset,"Clustering Mixed Numeric and Categorical Data: A Cluster Ensemble
+  Approach",5
+317,K-Histograms: An Efficient Clustering Algorithm for Categorical Dataset,Approximation Algorithms for K-Modes Clustering,4
+317,K-Histograms: An Efficient Clustering Algorithm for Categorical Dataset,Operations for Learning with Graphical Models,2
+317,K-Histograms: An Efficient Clustering Algorithm for Categorical Dataset,Iterative Optimization and Simplification of Hierarchical Clusterings,2
+317,K-Histograms: An Efficient Clustering Algorithm for Categorical Dataset,"Farthest-Point Heuristic based Initialization Methods for K-Modes
+  Clustering",2
+319,"Using Interval Particle Filtering for Marker less 3D Human Motion
+  Capture",Markerless Human Motion Capture for Gait Analysis,3
+320,Markerless Human Motion Capture for Gait Analysis,"Using Interval Particle Filtering for Marker less 3D Human Motion
+  Capture",3
+329,Mathematical Models in Schema Theory,On Building a Knowledge Base for Stability Theory,2
+330,Truecluster: robust scalable clustering with model selection,Finite element model selection using Particle Swarm Optimization,2
+333,"Certainty Closure: Reliable Constraint Reasoning with Incomplete or
+  Erroneous Data",Postponing Branching Decisions,2
+334,Avoiding the Bloat with Stochastic Grammar-based Genetic Programming,SYNERGY: A Linear Planner Based on Genetic Programming,2
+336,Open Answer Set Programming with Guarded Programs,A semantic framework for preference handling in answer set programming,7
+336,Open Answer Set Programming with Guarded Programs,Fages' Theorem and Answer Set Programming,6
+336,Open Answer Set Programming with Guarded Programs,Normal forms for Answer Sets Programming,6
+336,Open Answer Set Programming with Guarded Programs,An Application of Proof-Theory in Answer Set Programming,6
+336,Open Answer Set Programming with Guarded Programs,Logic Programs with Compiled Preferences,5
+337,Metatheory of actions: beyond consistency,"E-RES: A System for Reasoning about Actions, Events and Observations",3
+337,Metatheory of actions: beyond consistency,Handling Defeasibilities in Action Domains,2
+338,"Estimation of linear, non-gaussian causal models in the presence of
+  confounding latent variables","Causes and Explanations: A Structural-Model Approach, Part I: Causes",3
+338,"Estimation of linear, non-gaussian causal models in the presence of
+  confounding latent variables","Causes and Explanations: A Structural-Model Approach. Part II:
+  Explanations",2
+340,Approximation Algorithms for K-Modes Clustering,K-Histograms: An Efficient Clustering Algorithm for Categorical Dataset,4
+340,Approximation Algorithms for K-Modes Clustering,"Farthest-Point Heuristic based Initialization Methods for K-Modes
+  Clustering",4
+340,Approximation Algorithms for K-Modes Clustering,"Clustering Mixed Numeric and Categorical Data: A Cluster Ensemble
+  Approach",3
+340,Approximation Algorithms for K-Modes Clustering,Attribute Value Weighting in K-Modes Clustering,3
+340,Approximation Algorithms for K-Modes Clustering,Iterative Optimization and Simplification of Hierarchical Clusterings,2
+341,Can an Organism Adapt Itself to Unforeseen Circumstances?,Intelligent Systems: Architectures and Perspectives,3
+341,Can an Organism Adapt Itself to Unforeseen Circumstances?,Conscious Intelligent Systems - Part 1 : I X I,3
+341,Can an Organism Adapt Itself to Unforeseen Circumstances?,"Conscious Intelligent Systems - Part II - Mind, Thought, Language and
+  Understanding",3
+341,Can an Organism Adapt Itself to Unforeseen Circumstances?,Operations for Learning with Graphical Models,2
+341,Can an Organism Adapt Itself to Unforeseen Circumstances?,Anticipatory Guidance of Plot,2
+342,"Adaptative combination rule and proportional conflict redistribution
+  rule for information fusion",A Simple Proportional Conflict Redistribution Rule,4
+342,"Adaptative combination rule and proportional conflict redistribution
+  rule for information fusion",Proportional Conflict Redistribution Rules for Information Fusion,4
+342,"Adaptative combination rule and proportional conflict redistribution
+  rule for information fusion","A new generalization of the proportional conflict redistribution rule
+  stable in terms of decision",4
+342,"Adaptative combination rule and proportional conflict redistribution
+  rule for information fusion","Importance of Sources using the Repeated Fusion Method and the
+  Proportional Conflict Redistribution Rules #5 and #6",4
+342,"Adaptative combination rule and proportional conflict redistribution
+  rule for information fusion",On rho in a Decision-Theoretic Apparatus of Dempster-Shafer Theory,2
+343,Retraction and Generalized Extension of Computing with Words,A Fuzzy Petri Nets Model for Computing With Words,5
+343,Retraction and Generalized Extension of Computing with Words,A multivalued knowledge-base model,2
+346,"Reasoning and Planning with Sensing Actions, Incomplete Information, and
+  Static Causal Laws using Answer Set Programming",Smodels: A System for Answer Set Programming,3
+346,"Reasoning and Planning with Sensing Actions, Incomplete Information, and
+  Static Causal Laws using Answer Set Programming",Fages' Theorem and Answer Set Programming,3
+346,"Reasoning and Planning with Sensing Actions, Incomplete Information, and
+  Static Causal Laws using Answer Set Programming",A semantic framework for preference handling in answer set programming,3
+346,"Reasoning and Planning with Sensing Actions, Incomplete Information, and
+  Static Causal Laws using Answer Set Programming",Normal forms for Answer Sets Programming,3
+346,"Reasoning and Planning with Sensing Actions, Incomplete Information, and
+  Static Causal Laws using Answer Set Programming","Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",3
+347,"Approximate Discrete Probability Distribution Representation using a
+  Multi-Resolution Binary Tree",Utility-Probability Duality,2
+347,"Approximate Discrete Probability Distribution Representation using a
+  Multi-Resolution Binary Tree","Convergence of Expected Utilities with Algorithmic Probability
+  Distributions",2
+348,Diagnosability of Fuzzy Discrete Event Systems,Decentralized Failure Diagnosis of Stochastic Discrete Event Systems,4
+349,Classification of Ordinal Data,Operations for Learning with Graphical Models,2
+349,Classification of Ordinal Data,An Integrated Framework for Learning and Reasoning,2
+349,Classification of Ordinal Data,Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,2
+349,Classification of Ordinal Data,"EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",2
+349,Classification of Ordinal Data,"Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms",2
+350,Imagination as Holographic Processor for Text Animation,The Road to Quantum Artificial Intelligence,2
+350,Imagination as Holographic Processor for Text Animation,Universal Intelligence: A Definition of Machine Intelligence,2
+350,Imagination as Holographic Processor for Text Animation,Tests of Machine Intelligence,2
+350,Imagination as Holographic Processor for Text Animation,Artificial Intelligence Techniques for Steam Generator Modelling,2
+351,Belief Calculus,The Cumulative Rule for Belief Fusion,2
+351,Belief Calculus,"Implementing general belief function framework with a practical
+  codification for low complexity",2
+351,Belief Calculus,A new probabilistic transformation of belief mass assignment,2
+352,The Cumulative Rule for Belief Fusion,Belief Calculus,2
+352,The Cumulative Rule for Belief Fusion,Belief Conditioning Rules (BCRs),2
+352,The Cumulative Rule for Belief Fusion,Qualitative Belief Conditioning Rules (QBCR),2
+352,The Cumulative Rule for Belief Fusion,General combination rules for qualitative and quantitative beliefs,2
+354,Belief Conditioning Rules (BCRs),Qualitative Belief Conditioning Rules (QBCR),7
+354,Belief Conditioning Rules (BCRs),Optimal Belief Revision,3
+354,Belief Conditioning Rules (BCRs),SATEN: An Object-Oriented Web-Based Revision and Extraction Engine,3
+354,Belief Conditioning Rules (BCRs),Distance Semantics for Belief Revision,3
+354,Belief Conditioning Rules (BCRs),Belief Revision and Rational Inference,3
+355,Islands for SAT,When Gravity Fails: Local Search Topology,2
+355,Islands for SAT,Foundations of the Pareto Iterated Local Search Metaheuristic,2
+355,Islands for SAT,Online Estimation of SAT Solving Runtime,2
+355,Islands for SAT,Online Search Cost Estimation for SAT Solvers,2
+355,Islands for SAT,"A Local Search Modeling for Constrained Optimum Paths Problems (Extended
+  Abstract)",2
+356,About Norms and Causes,Representing Knowledge about Norms,2
+357,Representing Knowledge about Norms,Generalization of Clauses under Implication,3
+357,Representing Knowledge about Norms,A Hierarchy of Tractable Subsets for Computing Stable Models,2
+357,Representing Knowledge about Norms,A Consistency-Based Model for Belief Change: Preliminary Report,2
+357,Representing Knowledge about Norms,What does a conditional knowledge base entail?,2
+357,Representing Knowledge about Norms,About Norms and Causes,2
+358,"Target Type Tracking with PCR5 and Dempster's rules: A Comparative
+  Analysis",Tracking object's type changes with fuzzy based fusion rule,5
+359,Fusion of qualitative beliefs using DSmT,Enrichment of Qualitative Beliefs for Reasoning under Uncertainty,4
+359,Fusion of qualitative beliefs using DSmT,Qualitative Belief Conditioning Rules (QBCR),3
+359,Fusion of qualitative beliefs using DSmT,A Consistency-Based Model for Belief Change: Preliminary Report,2
+359,Fusion of qualitative beliefs using DSmT,Value Based Argumentation Frameworks,2
+359,Fusion of qualitative beliefs using DSmT,Belief Conditioning Rules (BCRs),2
+360,"An Introduction to the DSm Theory for the Combination of Paradoxical,
+  Uncertain, and Imprecise Sources of Information","The Combination of Paradoxical, Uncertain, and Imprecise Sources of
+  Information based on DSmT and Neutro-Fuzzy Inference",15
+360,"An Introduction to the DSm Theory for the Combination of Paradoxical,
+  Uncertain, and Imprecise Sources of Information",An introduction to DSmT,13
+360,"An Introduction to the DSm Theory for the Combination of Paradoxical,
+  Uncertain, and Imprecise Sources of Information",DSmT: A new paradigm shift for information fusion,6
+361,Relation Variables in Qualitative Spatial Reasoning,MUSE CSP: An Extension to the Constraint Satisfaction Problem,4
+361,Relation Variables in Qualitative Spatial Reasoning,Breaking Value Symmetry,4
+361,Relation Variables in Qualitative Spatial Reasoning,Symmetry within Solutions,4
+361,Relation Variables in Qualitative Spatial Reasoning,Using Pivot Consistency to Decompose and Solve Functional CSPs,3
+361,Relation Variables in Qualitative Spatial Reasoning,A Complete Classification of Tractability in RCC-5,3
+362,Using Sets of Probability Measures to Represent Uncertainty,Updating Sets of Probabilities,5
+362,Using Sets of Probability Measures to Represent Uncertainty,Conditional Plausibility Measures and Bayesian Networks,2
+363,"A State-Based Regression Formulation for Domains with Sensing
+  Actions<br> and Incomplete Information",Regression with respect to sensing actions and partial states,7
+363,"A State-Based Regression Formulation for Domains with Sensing
+  Actions<br> and Incomplete Information",Planning with Incomplete Information,2
+363,"A State-Based Regression Formulation for Domains with Sensing
+  Actions<br> and Incomplete Information",Knowledge And The Action Description Language A,2
+363,"A State-Based Regression Formulation for Domains with Sensing
+  Actions<br> and Incomplete Information","Reasoning and Planning with Sensing Actions, Incomplete Information, and
+  Static Causal Laws using Answer Set Programming",2
+364,Semantic Description of Parameters in Web Service Annotations,A Neutrosophic Description Logic,2
+364,Semantic Description of Parameters in Web Service Annotations,Indexer Based Dynamic Web Services Discovery,2
+367,"A Typed Hybrid Description Logic Programming Language with Polymorphic
+  Order-Sorted DL-Typed Unification for Semantic Web Type Systems","Translating OWL and Semantic Web Rules into Prolog: Moving Toward
+  Description Logic Programs",2
+368,Why did the accident happen? A norm-based reasoning approach,Applying GSAT to Non-Clausal Formulas,2
+368,Why did the accident happen? A norm-based reasoning approach,Defeasible Reasoning in OSCAR,2
+368,Why did the accident happen? A norm-based reasoning approach,"E-RES: A System for Reasoning about Actions, Events and Observations",2
+368,Why did the accident happen? A norm-based reasoning approach,Une expérience de sémantique inférentielle,2
+369,Une expérience de sémantique inférentielle,Why did the accident happen? A norm-based reasoning approach,2
+370,"Farthest-Point Heuristic based Initialization Methods for K-Modes
+  Clustering",Approximation Algorithms for K-Modes Clustering,4
+370,"Farthest-Point Heuristic based Initialization Methods for K-Modes
+  Clustering",K-Histograms: An Efficient Clustering Algorithm for Categorical Dataset,2
+374,Adaptation Knowledge Discovery from a Case Base,Case Base Mining for Adaptation Knowledge Acquisition,5
+374,Adaptation Knowledge Discovery from a Case Base,Opportunistic Adaptation Knowledge Discovery,4
+374,Adaptation Knowledge Discovery from a Case Base,Proceedings of the Pacific Knowledge Acquisition Workshop 2004,2
+375,Decentralized Failure Diagnosis of Stochastic Discrete Event Systems,Diagnosability of Fuzzy Discrete Event Systems,4
+376,DSmT: A new paradigm shift for information fusion,"The Combination of Paradoxical, Uncertain, and Imprecise Sources of
+  Information based on DSmT and Neutro-Fuzzy Inference",6
+376,DSmT: A new paradigm shift for information fusion,"An Introduction to the DSm Theory for the Combination of Paradoxical,
+  Uncertain, and Imprecise Sources of Information",6
+376,DSmT: A new paradigm shift for information fusion,An introduction to DSmT,4
+376,DSmT: A new paradigm shift for information fusion,Proportional Conflict Redistribution Rules for Information Fusion,2
+379,A Neutrosophic Description Logic,Semantic Description of Parameters in Web Service Annotations,2
+379,A Neutrosophic Description Logic,"On the Failure of the Finite Model Property in some Fuzzy Description
+  Logics",2
+379,A Neutrosophic Description Logic,A multivalued knowledge-base model,2
+380,"Genetic Programming for Kernel-based Learning with Co-evolving Subsets
+  Selection","Fault Classification in Cylinders Using Multilayer Perceptrons, Support
+  Vector Machines and Guassian Mixture Models",3
+380,"Genetic Programming for Kernel-based Learning with Co-evolving Subsets
+  Selection",On-Line Condition Monitoring using Computational Intelligence,3
+381,"Functional Brain Imaging with Multi-Objective Multi-Modal Evolutionary
+  Optimization","Can the whole brain be simpler than its ""parts""?",2
+382,A Generic Global Constraint based on MDDs,Generic Global Constraints based on MDDs,6
+382,A Generic Global Constraint based on MDDs,Learning DTW Global Constraint for Time Series Classification,3
+382,A Generic Global Constraint based on MDDs,Reformulating Global Grammar Constraints,3
+382,A Generic Global Constraint based on MDDs,Combining Symmetry Breaking and Global Constraints,3
+382,A Generic Global Constraint based on MDDs,Decomposition of the NVALUE constraint,3
+383,Conscious Intelligent Systems - Part 1 : I X I,"Conscious Intelligent Systems - Part II - Mind, Thought, Language and
+  Understanding",5
+383,Conscious Intelligent Systems - Part 1 : I X I,Intelligent Systems: Architectures and Perspectives,3
+383,Conscious Intelligent Systems - Part 1 : I X I,Can an Organism Adapt Itself to Unforeseen Circumstances?,3
+383,Conscious Intelligent Systems - Part 1 : I X I,Modeling Chaotic Behavior of Stock Indices Using Intelligent Paradigms,2
+383,Conscious Intelligent Systems - Part 1 : I X I,Phase transition in SONFIS&SORST,2
+384,"Conscious Intelligent Systems - Part II - Mind, Thought, Language and
+  Understanding",Conscious Intelligent Systems - Part 1 : I X I,5
+384,"Conscious Intelligent Systems - Part II - Mind, Thought, Language and
+  Understanding",Intelligent Systems: Architectures and Perspectives,3
+384,"Conscious Intelligent Systems - Part II - Mind, Thought, Language and
+  Understanding",Can an Organism Adapt Itself to Unforeseen Circumstances?,3
+384,"Conscious Intelligent Systems - Part II - Mind, Thought, Language and
+  Understanding",Modeling Chaotic Behavior of Stock Indices Using Intelligent Paradigms,2
+384,"Conscious Intelligent Systems - Part II - Mind, Thought, Language and
+  Understanding","Multiagent Approach for the Representation of Information in a Decision
+  Support System",2
+385,Interactive Configuration by Regular String Constraints,BDD-based reasoning in the fluent calculus - first results,3
+386,Truncating the loop series expansion for Belief Propagation,"Approximate inference on planar graphs using Loop Calculus and Belief
+  Propagation",2
+387,Attribute Value Weighting in K-Modes Clustering,Approximation Algorithms for K-Modes Clustering,3
+389,Uniform and Partially Uniform Redistribution Rules,A Simple Proportional Conflict Redistribution Rule,2
+389,Uniform and Partially Uniform Redistribution Rules,Proportional Conflict Redistribution Rules for Information Fusion,2
+389,Uniform and Partially Uniform Redistribution Rules,Fusion of qualitative beliefs using DSmT,2
+389,Uniform and Partially Uniform Redistribution Rules,"A new generalization of the proportional conflict redistribution rule
+  stable in terms of decision",2
+389,Uniform and Partially Uniform Redistribution Rules,A new probabilistic transformation of belief mass assignment,2
+390,Generic Global Constraints based on MDDs,A Generic Global Constraint based on MDDs,6
+390,Generic Global Constraints based on MDDs,Learning DTW Global Constraint for Time Series Classification,3
+390,Generic Global Constraints based on MDDs,Reformulating Global Grammar Constraints,3
+390,Generic Global Constraints based on MDDs,Combining Symmetry Breaking and Global Constraints,3
+390,Generic Global Constraints based on MDDs,Decomposition of the NVALUE constraint,3
+392,Modelling Complexity in Musical Rhythm,Serious Flaws in Korf et al.'s Analysis on Time Complexity of A*,2
+392,Modelling Complexity in Musical Rhythm,Modelling Concurrent Behaviors in the Process Specification Language,2
+394,Case Base Mining for Adaptation Knowledge Acquisition,Adaptation Knowledge Discovery from a Case Base,5
+394,Case Base Mining for Adaptation Knowledge Acquisition,Proceedings of the Pacific Knowledge Acquisition Workshop 2004,2
+396,A study of structural properties on profiles HMMs,"Causes and Explanations: A Structural-Model Approach, Part I: Causes",2
+396,A study of structural properties on profiles HMMs,"Learning to automatically detect features for mobile robots using
+  second-order Hidden Markov Models",2
+397,Bayesian approach to rough set,Bayesian Approach to Neuro-Rough Models,4
+400,"Fault Classification in Cylinders Using Multilayer Perceptrons, Support
+  Vector Machines and Guassian Mixture Models","Genetic Programming for Kernel-based Learning with Co-evolving Subsets
+  Selection",3
+400,"Fault Classification in Cylinders Using Multilayer Perceptrons, Support
+  Vector Machines and Guassian Mixture Models",On-Line Condition Monitoring using Computational Intelligence,3
+402,Soft constraint abstraction based on semiring homomorphism,Using Pivot Consistency to Decompose and Solve Functional CSPs,2
+402,Soft constraint abstraction based on semiring homomorphism,MUSE CSP: An Extension to the Constraint Satisfaction Problem,2
+402,Soft constraint abstraction based on semiring homomorphism,"Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison",2
+402,Soft constraint abstraction based on semiring homomorphism,Relation Variables in Qualitative Spatial Reasoning,2
+402,Soft constraint abstraction based on semiring homomorphism,Breaking Value Symmetry,2
+403,Bayesian Approach to Neuro-Rough Models,Bayesian approach to rough set,4
+403,Bayesian Approach to Neuro-Rough Models,Translating between Horn Representations and their Characteristic Models,2
+403,Bayesian Approach to Neuro-Rough Models,Finite element model selection using Particle Swarm Optimization,2
+403,Bayesian Approach to Neuro-Rough Models,Dominion -- A constraint solver generator,2
+404,"Artificial Neural Networks and Support Vector Machines for Water Demand
+  Time Series Forecasting","Inaccuracy Minimization by Partioning Fuzzy Data Sets - Validation of
+  Analystical Methodology",2
+405,"Fuzzy Artmap and Neural Network Approach to Online Processing of Inputs
+  with Missing Values",Data Mining Approach for Analyzing Call Center Performance,2
+406,Artificial Intelligence for Conflict Management,Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,3
+406,Artificial Intelligence for Conflict Management,Artificial Intelligence Techniques for Steam Generator Modelling,3
+406,Artificial Intelligence for Conflict Management,Monotonicity and Persistence in Preferential Logics,2
+406,Artificial Intelligence for Conflict Management,"EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",2
+406,Artificial Intelligence for Conflict Management,Traffic Accident Analysis Using Decision Trees and Neural Networks,2
+409,"Response Prediction of Structural System Subject to Earthquake Motions
+  using Artificial Neural Network",Neuro Fuzzy Systems: Sate-of-the-Art Modeling Techniques,3
+409,"Response Prediction of Structural System Subject to Earthquake Motions
+  using Artificial Neural Network",Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,3
+409,"Response Prediction of Structural System Subject to Earthquake Motions
+  using Artificial Neural Network",Meta-Learning Evolutionary Artificial Neural Networks,3
+409,"Response Prediction of Structural System Subject to Earthquake Motions
+  using Artificial Neural Network","Optimization of Evolutionary Neural Networks Using Hybrid Learning
+  Algorithms",3
+409,"Response Prediction of Structural System Subject to Earthquake Motions
+  using Artificial Neural Network","SCREEN: Learning a Flat Syntactic and Semantic Spoken Language Analysis
+  Using Artificial Neural Networks",2
+411,On-Line Condition Monitoring using Computational Intelligence,"Genetic Programming for Kernel-based Learning with Co-evolving Subsets
+  Selection",3
+411,On-Line Condition Monitoring using Computational Intelligence,"Fault Classification in Cylinders Using Multilayer Perceptrons, Support
+  Vector Machines and Guassian Mixture Models",3
+412,The Road to Quantum Artificial Intelligence,Universal Intelligence: A Definition of Machine Intelligence,3
+412,The Road to Quantum Artificial Intelligence,Artificial Intelligence Techniques for Steam Generator Modelling,3
+412,The Road to Quantum Artificial Intelligence,Monotonicity and Persistence in Preferential Logics,2
+412,The Road to Quantum Artificial Intelligence,Imagination as Holographic Processor for Text Animation,2
+412,The Road to Quantum Artificial Intelligence,Artificial Intelligence for Conflict Management,2
+414,Modeling Computations in a Semantic Network,Inferring knowledge from a large semantic network,2
+414,Modeling Computations in a Semantic Network,Using RDF to Model the Structure and Process of Systems,2
+414,Modeling Computations in a Semantic Network,Fact Sheet on Semantic Web,2
+414,Modeling Computations in a Semantic Network,Probabilistic Semantic Web Mining Using Artificial Neural Analysis,2
+414,Modeling Computations in a Semantic Network,Understanding Semantic Web and Ontologies: Theory and Applications,2
+415,Automatically Restructuring Practice Guidelines using the GEM DTD,"From Texts to Structured Documents: The Case of Health Practice
+  Guidelines",9
+416,Temporal Reasoning without Transitive Tables,"The Design and Experimental Analysis of Algorithms for Temporal
+  Reasoning",3
+416,Temporal Reasoning without Transitive Tables,From Statistical Knowledge Bases to Degrees of Belief,2
+417,A Collection of Definitions of Intelligence,Reinforcement Learning: A Survey,2
+420,"A Leaf Recognition Algorithm for Plant Classification Using
+  Probabilistic Neural Network",Data Mining Approach for Analyzing Call Center Performance,2
+421,"2006: Celebrating 75 years of AI - History and Outlook: the Next 25
+  Years",Vagueness of Linguistic variable,2
+422,Qualitative Belief Conditioning Rules (QBCR),Belief Conditioning Rules (BCRs),7
+422,Qualitative Belief Conditioning Rules (QBCR),Fusion of qualitative beliefs using DSmT,3
+422,Qualitative Belief Conditioning Rules (QBCR),"Modeling Belief in Dynamic Systems, Part II: Revision and Update",2
+422,Qualitative Belief Conditioning Rules (QBCR),Optimal Belief Revision,2
+422,Qualitative Belief Conditioning Rules (QBCR),SATEN: An Object-Oriented Web-Based Revision and Extraction Engine,2
+423,Using RDF to Model the Structure and Process of Systems,Inferring knowledge from a large semantic network,3
+423,Using RDF to Model the Structure and Process of Systems,Operations for Learning with Graphical Models,2
+423,Using RDF to Model the Structure and Process of Systems,Anticipatory Guidance of Plot,2
+423,Using RDF to Model the Structure and Process of Systems,"A Comparison of Different Cognitive Paradigms Using Simple Animats in a
+  Virtual Laboratory, with Implications to the Notion of Cognition",2
+423,Using RDF to Model the Structure and Process of Systems,Can an Organism Adapt Itself to Unforeseen Circumstances?,2
+424,Enrichment of Qualitative Beliefs for Reasoning under Uncertainty,Fusion of qualitative beliefs using DSmT,4
+424,Enrichment of Qualitative Beliefs for Reasoning under Uncertainty,Relation Variables in Qualitative Spatial Reasoning,2
+425,Toward Psycho-robots,Logic programming with social features,2
+426,"Fitness landscape of the cellular automata majority problem: View from
+  the Olympus",Evolving localizations in reaction-diffusion cellular automata,3
+426,"Fitness landscape of the cellular automata majority problem: View from
+  the Olympus",Deceptiveness and Neutrality - the ND family of fitness landscapes,2
+427,Local search heuristics: Fitness Cloud versus Fitness Landscape,Deceptiveness and Neutrality - the ND family of fitness landscapes,2
+429,"From Texts to Structured Documents: The Case of Health Practice
+  Guidelines",Automatically Restructuring Practice Guidelines using the GEM DTD,9
+430,Lagrangian Relaxation for MAP Estimation in Graphical Models,Operations for Learning with Graphical Models,2
+431,Analyzing covert social network foundation behind terrorism disaster,Node discovery problem for a social network,2
+431,Analyzing covert social network foundation behind terrorism disaster,Semantic Social Network Analysis,2
+432,Node discovery problem for a social network,Node discovery in a networked organization,8
+432,Node discovery problem for a social network,Semantic Social Network Analysis,3
+432,Node discovery problem for a social network,Updating beliefs with incomplete observations,2
+432,Node discovery problem for a social network,Analyzing covert social network foundation behind terrorism disaster,2
+434,"Translating OWL and Semantic Web Rules into Prolog: Moving Toward
+  Description Logic Programs","Abductive Logic Programs with Penalization: Semantics, Complexity and
+  Implementation",3
+434,"Translating OWL and Semantic Web Rules into Prolog: Moving Toward
+  Description Logic Programs",Logic programs with propositional connectives and aggregates,3
+434,"Translating OWL and Semantic Web Rules into Prolog: Moving Toward
+  Description Logic Programs",A general approach to belief change in answer set programming,3
+434,"Translating OWL and Semantic Web Rules into Prolog: Moving Toward
+  Description Logic Programs","Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",2
+434,"Translating OWL and Semantic Web Rules into Prolog: Moving Toward
+  Description Logic Programs",Practical Methods for Proving Termination of General Logic Programs,2
+435,Evolving localizations in reaction-diffusion cellular automata,"Fitness landscape of the cellular automata majority problem: View from
+  the Olympus",3
+436,Decomposition During Search for Propagation-Based Constraint Solvers,Decomposition Based Search - A theoretical and experimental evaluation,2
+436,Decomposition During Search for Propagation-Based Constraint Solvers,Decomposition of the NVALUE constraint,2
+436,Decomposition During Search for Propagation-Based Constraint Solvers,On Improving Local Search for Unsatisfiability,2
+436,Decomposition During Search for Propagation-Based Constraint Solvers,Toward an automaton Constraint for Local Search,2
+436,Decomposition During Search for Propagation-Based Constraint Solvers,Dominion -- A constraint solver generator,2
+437,Universal Intelligence: A Definition of Machine Intelligence,Tests of Machine Intelligence,4
+437,Universal Intelligence: A Definition of Machine Intelligence,The Road to Quantum Artificial Intelligence,3
+437,Universal Intelligence: A Definition of Machine Intelligence,Artificial Intelligence Techniques for Steam Generator Modelling,3
+437,Universal Intelligence: A Definition of Machine Intelligence,A Hierarchy of Tractable Subsets for Computing Stable Models,2
+437,Universal Intelligence: A Definition of Machine Intelligence,Monotonicity and Persistence in Preferential Logics,2
+438,Tests of Machine Intelligence,Universal Intelligence: A Definition of Machine Intelligence,4
+438,Tests of Machine Intelligence,A Formalization of the Turing Test,3
+438,Tests of Machine Intelligence,Imagination as Holographic Processor for Text Animation,2
+438,Tests of Machine Intelligence,The Road to Quantum Artificial Intelligence,2
+438,Tests of Machine Intelligence,Artificial Intelligence Techniques for Steam Generator Modelling,2
+439,"Convergence of Expected Utilities with Algorithmic Probability
+  Distributions",Convergence of Expected Utility for Universal AI,5
+439,"Convergence of Expected Utilities with Algorithmic Probability
+  Distributions",Utility-Probability Duality,4
+439,"Convergence of Expected Utilities with Algorithmic Probability
+  Distributions",From Statistical Knowledge Bases to Degrees of Belief,2
+439,"Convergence of Expected Utilities with Algorithmic Probability
+  Distributions",The Algebra of Utility Inference,2
+439,"Convergence of Expected Utilities with Algorithmic Probability
+  Distributions",An information theory for preferences,2
+442,Anisotropic selection in cellular genetic algorithms,"On the Influence of Selection Operators on Performances in Cellular
+  Genetic Algorithms",9
+442,Anisotropic selection in cellular genetic algorithms,"Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic
+  Decision Tree Induction Algorithm",3
+442,Anisotropic selection in cellular genetic algorithms,Genetic Algorithms for multiple objective vehicle routing,3
+442,Anisotropic selection in cellular genetic algorithms,"Cauchy Annealing Schedule: An Annealing Schedule for Boltzmann Selection
+  Scheme in Evolutionary Algorithms",2
+444,Serious Flaws in Korf et al.'s Analysis on Time Complexity of A*,Decomposition of the NVALUE constraint,3
+444,Serious Flaws in Korf et al.'s Analysis on Time Complexity of A*,Modelling Complexity in Musical Rhythm,2
+444,Serious Flaws in Korf et al.'s Analysis on Time Complexity of A*,The model of quantum evolution,2
+446,Node discovery in a networked organization,Node discovery problem for a social network,8
+447,"Multiagent Approach for the Representation of Information in a Decision
+  Support System",Decision Support Systems (DSS) in Construction Tendering Processes,5
+447,"Multiagent Approach for the Representation of Information in a Decision
+  Support System","Adaptation of Mamdani Fuzzy Inference System Using Neuro - Genetic
+  Approach for Tactical Air Combat Decision Support System",4
+447,"Multiagent Approach for the Representation of Information in a Decision
+  Support System",Decision Support Systems Using Intelligent Paradigms,3
+447,"Multiagent Approach for the Representation of Information in a Decision
+  Support System",A System for Induction of Oblique Decision Trees,2
+447,"Multiagent Approach for the Representation of Information in a Decision
+  Support System","Conscious Intelligent Systems - Part II - Mind, Thought, Language and
+  Understanding",2
+448,Reflective visualization and verbalization of unconscious preference,Planning with Preferences using Logic Programming,2
+448,Reflective visualization and verbalization of unconscious preference,Fusion for Evaluation of Image Classification in Uncertain Environments,2
+449,Application of Rough Set Theory to Analysis of Hydrocyclone Operation,"Analysis of hydrocyclone performance based on information granulation
+  theory",5
+449,Application of Rough Set Theory to Analysis of Hydrocyclone Operation,Back analysis based on SOM-RST system,4
+449,Application of Rough Set Theory to Analysis of Hydrocyclone Operation,Rock mechanics modeling based on soft granulation theory,3
+449,Application of Rough Set Theory to Analysis of Hydrocyclone Operation,Knowledge Discovery of Hydrocyclone s Circuit Based on SONFIS and SORST,3
+449,Application of Rough Set Theory to Analysis of Hydrocyclone Operation,An axiomatic approach to the roughness measure of rough sets,3
+450,Agent-Based Perception of an Environment in an Emergency Situation,"Multiagent Approach for the Representation of Information in a Decision
+  Support System",2
+451,"On the Influence of Selection Operators on Performances in Cellular
+  Genetic Algorithms",Anisotropic selection in cellular genetic algorithms,9
+451,"On the Influence of Selection Operators on Performances in Cellular
+  Genetic Algorithms",Genetic Algorithms for multiple objective vehicle routing,3
+451,"On the Influence of Selection Operators on Performances in Cellular
+  Genetic Algorithms","Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic
+  Decision Tree Induction Algorithm",2
+452,"Geometric Data Analysis, From Correspondence Analysis to Structured Data
+  Analysis (book review)",Iterative Optimization and Simplification of Hierarchical Clusterings,2
+453,Phase transition in SONFIS&SORST,Intelligent Systems: Architectures and Perspectives,2
+453,Phase transition in SONFIS&SORST,Can an Organism Adapt Itself to Unforeseen Circumstances?,2
+453,Phase transition in SONFIS&SORST,Conscious Intelligent Systems - Part 1 : I X I,2
+453,Phase transition in SONFIS&SORST,"Conscious Intelligent Systems - Part II - Mind, Thought, Language and
+  Understanding",2
+456,Toward Fuzzy block theory,Rock mechanics modeling based on soft granulation theory,2
+457,"Analysis of hydrocyclone performance based on information granulation
+  theory",Rock mechanics modeling based on soft granulation theory,7
+457,"Analysis of hydrocyclone performance based on information granulation
+  theory",Application of Rough Set Theory to Analysis of Hydrocyclone Operation,5
+457,"Analysis of hydrocyclone performance based on information granulation
+  theory",Back analysis based on SOM-RST system,5
+457,"Analysis of hydrocyclone performance based on information granulation
+  theory",Knowledge Discovery of Hydrocyclone s Circuit Based on SONFIS and SORST,2
+458,Logic programming with social features,Defeasible Logic Programming: An Argumentative Approach,3
+458,Logic programming with social features,Parametric Connectives in Disjunctive Logic Programming,3
+458,Logic programming with social features,A general approach to belief change in answer set programming,3
+458,Logic programming with social features,ACLP: Integrating Abduction and Constraint Solving,2
+458,Logic programming with social features,"Abductive Logic Programs with Penalization: Semantics, Complexity and
+  Implementation",2
+459,Constructing Folksonomies from User-specified Relations on Flickr,"Growing a Tree in the Forest: Constructing Folksonomies by Integrating
+  Structured Metadata",6
+462,Fusion for Evaluation of Image Classification in Uncertain Environments,Reflective visualization and verbalization of unconscious preference,2
+464,Rock mechanics modeling based on soft granulation theory,"Analysis of hydrocyclone performance based on information granulation
+  theory",7
+464,Rock mechanics modeling based on soft granulation theory,Back analysis based on SOM-RST system,5
+464,Rock mechanics modeling based on soft granulation theory,Application of Rough Set Theory to Analysis of Hydrocyclone Operation,3
+464,Rock mechanics modeling based on soft granulation theory,An improved axiomatic definition of information granulation,3
+464,Rock mechanics modeling based on soft granulation theory,Toward Fuzzy block theory,2
+467,"Toward a combination rule to deal with partial conflict and specificity
+  in belief functions theory","A new generalization of the proportional conflict redistribution rule
+  stable in terms of decision",3
+467,"Toward a combination rule to deal with partial conflict and specificity
+  in belief functions theory",Proportional Conflict Redistribution Rules for Information Fusion,2
+467,"Toward a combination rule to deal with partial conflict and specificity
+  in belief functions theory","Une nouvelle règle de combinaison répartissant le conflit -
+  Applications en imagerie Sonar et classification de cibles Radar",2
+467,"Toward a combination rule to deal with partial conflict and specificity
+  in belief functions theory",General combination rules for qualitative and quantitative beliefs,2
+468,"A new generalization of the proportional conflict redistribution rule
+  stable in terms of decision",Proportional Conflict Redistribution Rules for Information Fusion,6
+468,"A new generalization of the proportional conflict redistribution rule
+  stable in terms of decision",A Simple Proportional Conflict Redistribution Rule,5
+468,"A new generalization of the proportional conflict redistribution rule
+  stable in terms of decision","Importance of Sources using the Repeated Fusion Method and the
+  Proportional Conflict Redistribution Rules #5 and #6",5
+468,"A new generalization of the proportional conflict redistribution rule
+  stable in terms of decision","Adaptative combination rule and proportional conflict redistribution
+  rule for information fusion",4
+468,"A new generalization of the proportional conflict redistribution rule
+  stable in terms of decision","Toward a combination rule to deal with partial conflict and specificity
+  in belief functions theory",3
+469,"Une nouvelle règle de combinaison répartissant le conflit -
+  Applications en imagerie Sonar et classification de cibles Radar","Toward a combination rule to deal with partial conflict and specificity
+  in belief functions theory",2
+469,"Une nouvelle règle de combinaison répartissant le conflit -
+  Applications en imagerie Sonar et classification de cibles Radar","A new generalization of the proportional conflict redistribution rule
+  stable in terms of decision",2
+469,"Une nouvelle règle de combinaison répartissant le conflit -
+  Applications en imagerie Sonar et classification de cibles Radar",General combination rules for qualitative and quantitative beliefs,2
+470,Perfect Derived Propagators,View-based Propagator Derivation,7
+472,The model of quantum evolution,Serious Flaws in Korf et al.'s Analysis on Time Complexity of A*,2
+473,Belief decision support and reject for textured images characterization,"Multiagent Approach for the Representation of Information in a Decision
+  Support System",2
+473,Belief decision support and reject for textured images characterization,Decision Support Systems (DSS) in Construction Tendering Processes,2
+476,"Implementing general belief function framework with a practical
+  codification for low complexity",Belief Calculus,2
+477,A new probabilistic transformation of belief mass assignment,Belief Calculus,2
+477,A new probabilistic transformation of belief mass assignment,Uniform and Partially Uniform Redistribution Rules,2
+479,Hacia una teoria de unificacion para los comportamientos cognitivos,On the Notion of Cognition,2
+481,n-ary Fuzzy Logic and Neutrosophic Logic Operators,"N-norm and N-conorm in Neutrosophic Logic and Set, and the Neutrosophic
+  Topologies",3
+481,n-ary Fuzzy Logic and Neutrosophic Logic Operators,On the relationship between fuzzy logic and four-valued relevance logic,2
+482,"Randomised Variable Neighbourhood Search for Multi Objective
+  Optimisation",A Constraint-directed Local Search Approach to Nurse Rostering Problems,4
+483,Foundations of the Pareto Iterated Local Search Metaheuristic,"Improvements for multi-objective flow shop scheduling by Pareto Iterated
+  Local Search",9
+483,Foundations of the Pareto Iterated Local Search Metaheuristic,When Gravity Fails: Local Search Topology,2
+483,Foundations of the Pareto Iterated Local Search Metaheuristic,Islands for SAT,2
+483,Foundations of the Pareto Iterated Local Search Metaheuristic,"Variable Neighborhood Search for the University Lecturer-Student
+  Assignment Problem",2
+483,Foundations of the Pareto Iterated Local Search Metaheuristic,"A Local Search Modeling for Constrained Optimum Paths Problems (Extended
+  Abstract)",2
+484,"A Computational Study of Genetic Crossover Operators for Multi-Objective
+  Vehicle Routing Problem with Soft Time Windows","A framework for the interactive resolution of multi-objective vehicle
+  routing problems",4
+484,"A Computational Study of Genetic Crossover Operators for Multi-Objective
+  Vehicle Routing Problem with Soft Time Windows",Genetic Algorithms for multiple objective vehicle routing,2
+485,Genetic Algorithms for multiple objective vehicle routing,Anisotropic selection in cellular genetic algorithms,3
+485,Genetic Algorithms for multiple objective vehicle routing,"On the Influence of Selection Operators on Performances in Cellular
+  Genetic Algorithms",3
+485,Genetic Algorithms for multiple objective vehicle routing,"Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic
+  Decision Tree Induction Algorithm",2
+485,Genetic Algorithms for multiple objective vehicle routing,"A Computational Study of Genetic Crossover Operators for Multi-Objective
+  Vehicle Routing Problem with Soft Time Windows",2
+485,Genetic Algorithms for multiple objective vehicle routing,"A framework for the interactive resolution of multi-objective vehicle
+  routing problems",2
+486,"A framework for the interactive resolution of multi-objective vehicle
+  routing problems","A Computational Study of Genetic Crossover Operators for Multi-Objective
+  Vehicle Routing Problem with Soft Time Windows",4
+486,"A framework for the interactive resolution of multi-objective vehicle
+  routing problems",Genetic Algorithms for multiple objective vehicle routing,2
+487,Improving Local Search for Fuzzy Scheduling Problems,On Improving Local Search for Unsatisfiability,3
+487,Improving Local Search for Fuzzy Scheduling Problems,A Soft Computing Model for Physicians' Decision Process,3
+487,Improving Local Search for Fuzzy Scheduling Problems,A Constraint-directed Local Search Approach to Nurse Rostering Problems,2
+487,Improving Local Search for Fuzzy Scheduling Problems,"Proceedings 6th International Workshop on Local Search Techniques in
+  Constraint Satisfaction",2
+490,"Variable Neighborhood Search for the University Lecturer-Student
+  Assignment Problem",Foundations of the Pareto Iterated Local Search Metaheuristic,2
+490,"Variable Neighborhood Search for the University Lecturer-Student
+  Assignment Problem","The Single Machine Total Weighted Tardiness Problem - Is it (for
+  Metaheuristics) a Solved Problem ?",2
+491,Extended ASP tableaux and rule redundancy in normal logic programs,Smodels: A System for Answer Set Programming,2
+492,"Achieving compositionality of the stable model semantics for Smodels
+  programs",Smodels: A System for Answer Set Programming,5
+492,"Achieving compositionality of the stable model semantics for Smodels
+  programs",Unfolding Partiality and Disjunctions in Stable Model Semantics,4
+492,"Achieving compositionality of the stable model semantics for Smodels
+  programs",Epistemic Foundation of Stable Model Semantics,3
+492,"Achieving compositionality of the stable model semantics for Smodels
+  programs",Weight Constraints as Nested Expressions,2
+493,"Determining the Unithood of Word Sequences using a Probabilistic
+  Approach","Determining the Unithood of Word Sequences using Mutual Information and
+  Independence Measure",8
+494,"Determining the Unithood of Word Sequences using Mutual Information and
+  Independence Measure","Determining the Unithood of Word Sequences using a Probabilistic
+  Approach",8
+495,Enhanced Integrated Scoring for Cleaning Dirty Texts,A Constrained Object Model for Configuration Based Workflow Composition,3
+496,On-the-fly Macros,A Domain-Independent Algorithm for Plan Adaptation,2
+497,Modeling of Social Transitions Using Intelligent Systems,Knowledge Discovery of Hydrocyclone s Circuit Based on SONFIS and SORST,4
+497,Modeling of Social Transitions Using Intelligent Systems,Application of Rough Set Theory to Analysis of Hydrocyclone Operation,2
+497,Modeling of Social Transitions Using Intelligent Systems,An axiomatic approach to the roughness measure of rough sets,2
+499,"Balancing Exploration and Exploitation by an Elitist Ant System with
+  Exponential Pheromone Deposition Rule","Extension of Max-Min Ant System with Exponential Pheromone Deposition
+  Rule",7
+501,"Extension of Max-Min Ant System with Exponential Pheromone Deposition
+  Rule","Balancing Exploration and Exploitation by an Elitist Ant System with
+  Exponential Pheromone Deposition Rule",7
+507,Artificial Intelligence Techniques for Steam Generator Modelling,Artificial Intelligence for Conflict Management,3
+507,Artificial Intelligence Techniques for Steam Generator Modelling,The Road to Quantum Artificial Intelligence,3
+507,Artificial Intelligence Techniques for Steam Generator Modelling,Universal Intelligence: A Definition of Machine Intelligence,3
+507,Artificial Intelligence Techniques for Steam Generator Modelling,An Integrated Framework for Learning and Reasoning,2
+507,Artificial Intelligence Techniques for Steam Generator Modelling,Monotonicity and Persistence in Preferential Logics,2
+509,Logic programs with propositional connectives and aggregates,"Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison",4
+509,Logic programs with propositional connectives and aggregates,"A New Look at the Easy-Hard-Easy Pattern of Combinatorial Search
+  Difficulty",3
+509,Logic programs with propositional connectives and aggregates,Smodels: A System for Answer Set Programming,3
+509,Logic programs with propositional connectives and aggregates,"Abductive Logic Programs with Penalization: Semantics, Complexity and
+  Implementation",3
+509,Logic programs with propositional connectives and aggregates,"Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",3
+514,"Approximate inference on planar graphs using Loop Calculus and Belief
+  Propagation",Truncating the loop series expansion for Belief Propagation,2
+515,"N-norm and N-conorm in Neutrosophic Logic and Set, and the Neutrosophic
+  Topologies",n-ary Fuzzy Logic and Neutrosophic Logic Operators,3
+515,"N-norm and N-conorm in Neutrosophic Logic and Set, and the Neutrosophic
+  Topologies","Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",2
+515,"N-norm and N-conorm in Neutrosophic Logic and Set, and the Neutrosophic
+  Topologies",Logic Programs with Compiled Preferences,2
+515,"N-norm and N-conorm in Neutrosophic Logic and Set, and the Neutrosophic
+  Topologies",On the relationship between fuzzy logic and four-valued relevance logic,2
+515,"N-norm and N-conorm in Neutrosophic Logic and Set, and the Neutrosophic
+  Topologies",Embedding Default Logic in Propositional Argumentation Systems,2
+516,Deceptiveness and Neutrality - the ND family of fitness landscapes,"Fitness landscape of the cellular automata majority problem: View from
+  the Olympus",2
+516,Deceptiveness and Neutrality - the ND family of fitness landscapes,Local search heuristics: Fitness Cloud versus Fitness Landscape,2
+522,A Model for Managing Collections of Patterns,Quantifying and Visualizing Attribute Interactions,2
+522,A Model for Managing Collections of Patterns,"Clustering Mixed Numeric and Categorical Data: A Cluster Ensemble
+  Approach",2
+522,A Model for Managing Collections of Patterns,K-Histograms: An Efficient Clustering Algorithm for Categorical Dataset,2
+524,XML Representation of Constraint Networks: Format XCSP 2.1,MUSE CSP: An Extension to the Constraint Satisfaction Problem,2
+526,Learning DTW Global Constraint for Time Series Classification,A Generic Global Constraint based on MDDs,3
+526,Learning DTW Global Constraint for Time Series Classification,Generic Global Constraints based on MDDs,3
+526,Learning DTW Global Constraint for Time Series Classification,Reformulating Global Grammar Constraints,3
+526,Learning DTW Global Constraint for Time Series Classification,Combining Symmetry Breaking and Global Constraints,3
+526,Learning DTW Global Constraint for Time Series Classification,Decomposition of the NVALUE constraint,3
+527,"Range and Roots: Two Common Patterns for Specifying and Propagating
+  Counting and Occurrence Constraints",Decomposition of the NVALUE constraint,2
+528,An introduction to DSmT,"The Combination of Paradoxical, Uncertain, and Imprecise Sources of
+  Information based on DSmT and Neutro-Fuzzy Inference",13
+528,An introduction to DSmT,"An Introduction to the DSm Theory for the Combination of Paradoxical,
+  Uncertain, and Imprecise Sources of Information",13
+528,An introduction to DSmT,DSmT: A new paradigm shift for information fusion,4
+529,Granularity-Adaptive Proof Presentation,Knowledge Representation,2
+529,Granularity-Adaptive Proof Presentation,"Automated Reasoning and Presentation Support for Formalizing Mathematics
+  in Mizar",2
+530,Breaking Value Symmetry,MUSE CSP: An Extension to the Constraint Satisfaction Problem,6
+530,Breaking Value Symmetry,Symmetry within Solutions,5
+530,Breaking Value Symmetry,The Exact Closest String Problem as a Constraint Satisfaction Problem,5
+530,Breaking Value Symmetry,Using Pivot Consistency to Decompose and Solve Functional CSPs,4
+530,Breaking Value Symmetry,Relation Variables in Qualitative Spatial Reasoning,4
+531,Reformulating Global Grammar Constraints,A Generic Global Constraint based on MDDs,3
+531,Reformulating Global Grammar Constraints,Generic Global Constraints based on MDDs,3
+531,Reformulating Global Grammar Constraints,Learning DTW Global Constraint for Time Series Classification,3
+531,Reformulating Global Grammar Constraints,Combining Symmetry Breaking and Global Constraints,3
+531,Reformulating Global Grammar Constraints,Decomposition of the NVALUE constraint,3
+532,Combining Symmetry Breaking and Global Constraints,Symmetries of Symmetry Breaking Constraints,4
+532,Combining Symmetry Breaking and Global Constraints,Symmetries of Symmetry Breaking Constraints,4
+532,Combining Symmetry Breaking and Global Constraints,A Generic Global Constraint based on MDDs,3
+532,Combining Symmetry Breaking and Global Constraints,Generic Global Constraints based on MDDs,3
+532,Combining Symmetry Breaking and Global Constraints,Learning DTW Global Constraint for Time Series Classification,3
+533,Online Estimation of SAT Solving Runtime,Online Search Cost Estimation for SAT Solvers,6
+533,Online Estimation of SAT Solving Runtime,Islands for SAT,2
+536,Stochastic Constraint Programming: A Scenario-Based Approach,Stochastic Constraint Programming,10
+536,Stochastic Constraint Programming: A Scenario-Based Approach,Scenario-based Stochastic Constraint Programming,7
+536,Stochastic Constraint Programming: A Scenario-Based Approach,Model-Driven Constraint Programming,4
+536,Stochastic Constraint Programming: A Scenario-Based Approach,Symmetries of Symmetry Breaking Constraints,3
+536,Stochastic Constraint Programming: A Scenario-Based Approach,Symmetries of Symmetry Breaking Constraints,3
+537,Stochastic Constraint Programming,Stochastic Constraint Programming: A Scenario-Based Approach,10
+537,Stochastic Constraint Programming,Scenario-based Stochastic Constraint Programming,6
+537,Stochastic Constraint Programming,Modeling Object Oriented Constraint Programs in Z,2
+537,Stochastic Constraint Programming,Generic Global Constraints based on MDDs,2
+537,Stochastic Constraint Programming,Symmetries of Symmetry Breaking Constraints,2
+543,Semantic Social Network Analysis,Node discovery problem for a social network,3
+543,Semantic Social Network Analysis,Analyzing covert social network foundation behind terrorism disaster,2
+544,Guarded resolution for answer set programming,Smodels: A System for Answer Set Programming,4
+544,Guarded resolution for answer set programming,"Towards Automated Integration of Guess and Check Programs in Answer Set
+  Programming: A Meta-Interpreter and Applications",4
+544,Guarded resolution for answer set programming,An Application of Proof-Theory in Answer Set Programming,4
+544,Guarded resolution for answer set programming,Fages' Theorem and Answer Set Programming,3
+544,Guarded resolution for answer set programming,A semantic framework for preference handling in answer set programming,3
+546,An Application of Proof-Theory in Answer Set Programming,A semantic framework for preference handling in answer set programming,6
+546,An Application of Proof-Theory in Answer Set Programming,Open Answer Set Programming with Guarded Programs,6
+546,An Application of Proof-Theory in Answer Set Programming,Smodels: A System for Answer Set Programming,5
+546,An Application of Proof-Theory in Answer Set Programming,Fages' Theorem and Answer Set Programming,5
+546,An Application of Proof-Theory in Answer Set Programming,Normal forms for Answer Sets Programming,5
+547,"Decompositions of All Different, Global Cardinality and Related
+  Constraints",Multiset Ordering Constraints,2
+548,Scenario-based Stochastic Constraint Programming,Stochastic Constraint Programming: A Scenario-Based Approach,7
+548,Scenario-based Stochastic Constraint Programming,Stochastic Constraint Programming,6
+548,Scenario-based Stochastic Constraint Programming,Model-Driven Constraint Programming,3
+548,Scenario-based Stochastic Constraint Programming,ACLP: Integrating Abduction and Constraint Solving,2
+548,Scenario-based Stochastic Constraint Programming,dcs: An Implementation of DATALOG with Constraints,2
+549,"Reasoning about soft constraints and conditional preferences: complexity
+  results and approximation techniques",Generic Global Constraints based on MDDs,2
+549,"Reasoning about soft constraints and conditional preferences: complexity
+  results and approximation techniques",Soft constraint abstraction based on semiring homomorphism,2
+550,Multiset Ordering Constraints,Breaking Value Symmetry,3
+550,Multiset Ordering Constraints,Combining Symmetry Breaking and Global Constraints,3
+550,Multiset Ordering Constraints,Using Pivot Consistency to Decompose and Solve Functional CSPs,2
+550,Multiset Ordering Constraints,MUSE CSP: An Extension to the Constraint Satisfaction Problem,2
+550,Multiset Ordering Constraints,DATALOG with constraints - an answer-set programming system,2
+552,Considerations on Construction Ontologies,An Efficient Technique for Similarity Identification between Ontologies,2
+553,A Logic Programming Approach to Activity Recognition,"Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison",2
+554,"Knowledge Management in Economic Intelligence with Reasoning on Temporal
+  Attributes",$α$-Discounting Multi-Criteria Decision Making ($α$-D MCDM),2
+555,Toward a Category Theory Design of Ontological Knowledge Bases,Decidable Reasoning in Terminological Knowledge Representation Systems,2
+555,Toward a Category Theory Design of Ontological Knowledge Bases,Reasoning about Evolving Nonmonotonic Knowledge Bases,2
+555,Toward a Category Theory Design of Ontological Knowledge Bases,Towards Closed World Reasoning in Dynamic Open Worlds (Extended Version),2
+555,Toward a Category Theory Design of Ontological Knowledge Bases,On Building a Knowledge Base for Stability Theory,2
+557,Semi-Myopic Sensing Plans for Value Optimization,FLECS: Planning with a Flexible Commitment Strategy,2
+557,Semi-Myopic Sensing Plans for Value Optimization,"Storing and Indexing Plan Derivations through Explanation-based Analysis
+  of Retrieval Failures",2
+557,Semi-Myopic Sensing Plans for Value Optimization,Regression with respect to sensing actions and partial states,2
+558,Updating Sets of Probabilities,Using Sets of Probability Measures to Represent Uncertainty,5
+558,Updating Sets of Probabilities,Updating beliefs with incomplete observations,3
+558,Updating Sets of Probabilities,Conditional Plausibility Measures and Bayesian Networks,2
+560,General combination rules for qualitative and quantitative beliefs,The Cumulative Rule for Belief Fusion,2
+560,General combination rules for qualitative and quantitative beliefs,Belief Conditioning Rules (BCRs),2
+560,General combination rules for qualitative and quantitative beliefs,Qualitative Belief Conditioning Rules (QBCR),2
+560,General combination rules for qualitative and quantitative beliefs,"Toward a combination rule to deal with partial conflict and specificity
+  in belief functions theory",2
+560,General combination rules for qualitative and quantitative beliefs,"A new generalization of the proportional conflict redistribution rule
+  stable in terms of decision",2
+561,"A Novel Two-Staged Decision Support based Threat Evaluation and Weapon
+  Assignment Algorithm, Asset-based Dynamic Weapon Scheduling using Artificial
+  Intelligence Techinques",Spatial Aggregation: Theory and Applications,2
+561,"A Novel Two-Staged Decision Support based Threat Evaluation and Weapon
+  Assignment Algorithm, Asset-based Dynamic Weapon Scheduling using Artificial
+  Intelligence Techinques",Indexer Based Dynamic Web Services Discovery,2
+564,Modelling Concurrent Behaviors in the Process Specification Language,Modelling Complexity in Musical Rhythm,2
+565,"The Single Machine Total Weighted Tardiness Problem - Is it (for
+  Metaheuristics) a Solved Problem ?","Variable Neighborhood Search for the University Lecturer-Student
+  Assignment Problem",2
+566,"Improvements for multi-objective flow shop scheduling by Pareto Iterated
+  Local Search",Foundations of the Pareto Iterated Local Search Metaheuristic,9
+567,Beyond Turing Machines,A Formalization of the Turing Test,3
+567,Beyond Turing Machines,"Convergence of Expected Utilities with Algorithmic Probability
+  Distributions",2
+567,Beyond Turing Machines,Convergence of Expected Utility for Universal AI,2
+568,Pattern Recognition Theory of Mind,DCT Based Texture Classification Using Soft Computing Approach,2
+569,Fact Sheet on Semantic Web,Probabilistic Semantic Web Mining Using Artificial Neural Analysis,3
+569,Fact Sheet on Semantic Web,Understanding Semantic Web and Ontologies: Theory and Applications,3
+569,Fact Sheet on Semantic Web,"Toward the Implementation of Functions in the DLV System (Preliminary
+  Technical Report)",2
+569,Fact Sheet on Semantic Web,Modeling Computations in a Semantic Network,2
+570,Restart Strategy Selection using Machine Learning Techniques,Integrating Defeasible Argumentation and Machine Learning Techniques,3
+570,Restart Strategy Selection using Machine Learning Techniques,An Integrated Framework for Learning and Reasoning,2
+570,Restart Strategy Selection using Machine Learning Techniques,Rule-based Machine Learning Methods for Functional Prediction,2
+570,Restart Strategy Selection using Machine Learning Techniques,Reinforcement Learning: A Survey,2
+571,Online Search Cost Estimation for SAT Solvers,Online Estimation of SAT Solving Runtime,6
+571,Online Search Cost Estimation for SAT Solvers,Quantum Computing and Phase Transitions in Combinatorial Search,2
+571,Online Search Cost Estimation for SAT Solvers,"A New Look at the Easy-Hard-Easy Pattern of Combinatorial Search
+  Difficulty",2
+571,Online Search Cost Estimation for SAT Solvers,A Framework for Searching AND/OR Graphs with Cycles,2
+571,Online Search Cost Estimation for SAT Solvers,Islands for SAT,2
+572,On Classification from Outlier View,"Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic
+  Decision Tree Induction Algorithm",2
+573,Convergence of Expected Utility for Universal AI,"Convergence of Expected Utilities with Algorithmic Probability
+  Distributions",5
+573,Convergence of Expected Utility for Universal AI,"Great Expectations. Part II: Generalized Expected Utility as a Universal
+  Decision Rule",4
+573,Convergence of Expected Utility for Universal AI,On rho in a Decision-Theoretic Apparatus of Dempster-Shafer Theory,3
+573,Convergence of Expected Utility for Universal AI,"Great Expectations. Part I: On the Customizability of Generalized
+  Expected Utility",3
+573,Convergence of Expected Utility for Universal AI,From Statistical Knowledge Bases to Degrees of Belief,2
+574,Knowledge Discovery of Hydrocyclone s Circuit Based on SONFIS and SORST,Modeling of Social Transitions Using Intelligent Systems,4
+574,Knowledge Discovery of Hydrocyclone s Circuit Based on SONFIS and SORST,Application of Rough Set Theory to Analysis of Hydrocyclone Operation,3
+574,Knowledge Discovery of Hydrocyclone s Circuit Based on SONFIS and SORST,"Analysis of hydrocyclone performance based on information granulation
+  theory",2
+574,Knowledge Discovery of Hydrocyclone s Circuit Based on SONFIS and SORST,Back analysis based on SOM-RST system,2
+575,A Class of DSm Conditional Rules,Belief Conditioning Rules (BCRs),2
+575,A Class of DSm Conditional Rules,Qualitative Belief Conditioning Rules (QBCR),2
+576,View-based Propagator Derivation,Perfect Derived Propagators,7
+578,An improved axiomatic definition of information granulation,Rock mechanics modeling based on soft granulation theory,3
+578,An improved axiomatic definition of information granulation,Some improved results on communication between information systems,2
+578,An improved axiomatic definition of information granulation,Homomorphisms between fuzzy information systems revisited,2
+578,An improved axiomatic definition of information granulation,Game Information System,2
+578,An improved axiomatic definition of information granulation,Virtual information system on working area,2
+580,Reasoning about Cardinal Directions between Extended Objects,"Integrating cardinal direction relations and other orientation relations
+  in Qualitative Spatial Reasoning",2
+580,Reasoning about Cardinal Directions between Extended Objects,"Integrating existing cone-shaped and projection-based cardinal direction
+  relations and a TCSP-like decidable generalisation",2
+581,On Planning with Preferences in HTN,"Learning Probabilistic Hierarchical Task Networks to Capture User
+  Preferences",3
+583,A multiagent urban traffic simulation Part I: dealing with the ordinary,"A multiagent urban traffic simulation. Part II: dealing with the
+  extraordinary",5
+586,Back analysis based on SOM-RST system,"Analysis of hydrocyclone performance based on information granulation
+  theory",5
+586,Back analysis based on SOM-RST system,Rock mechanics modeling based on soft granulation theory,5
+586,Back analysis based on SOM-RST system,Application of Rough Set Theory to Analysis of Hydrocyclone Operation,4
+586,Back analysis based on SOM-RST system,Knowledge Discovery of Hydrocyclone s Circuit Based on SONFIS and SORST,2
+589,Decomposition of the NVALUE constraint,Decomposition of the NVALUE constraint,8
+589,Decomposition of the NVALUE constraint,A Generic Global Constraint based on MDDs,2
+589,Decomposition of the NVALUE constraint,Generic Global Constraints based on MDDs,2
+589,Decomposition of the NVALUE constraint,Decomposition During Search for Propagation-Based Constraint Solvers,2
+589,Decomposition of the NVALUE constraint,Learning DTW Global Constraint for Time Series Classification,2
+590,Symmetries of Symmetry Breaking Constraints,Symmetries of Symmetry Breaking Constraints,11
+590,Symmetries of Symmetry Breaking Constraints,Combining Symmetry Breaking and Global Constraints,4
+590,Symmetries of Symmetry Breaking Constraints,Breaking Value Symmetry,3
+590,Symmetries of Symmetry Breaking Constraints,Stochastic Constraint Programming: A Scenario-Based Approach,3
+590,Symmetries of Symmetry Breaking Constraints,Weight Constraints as Nested Expressions,2
+592,Flow-Based Propagators for the SEQUENCE and Related Global Constraints,A Generic Global Constraint based on MDDs,2
+593,The Weighted CFG Constraint,The Essence of Constraint Propagation,2
+595,"A multiagent urban traffic simulation. Part II: dealing with the
+  extraordinary",A multiagent urban traffic simulation Part I: dealing with the ordinary,5
+596,"A Local Search Modeling for Constrained Optimum Paths Problems (Extended
+  Abstract)",When Gravity Fails: Local Search Topology,3
+596,"A Local Search Modeling for Constrained Optimum Paths Problems (Extended
+  Abstract)",On Improving Local Search for Unsatisfiability,3
+596,"A Local Search Modeling for Constrained Optimum Paths Problems (Extended
+  Abstract)",Toward an automaton Constraint for Local Search,3
+596,"A Local Search Modeling for Constrained Optimum Paths Problems (Extended
+  Abstract)",Islands for SAT,2
+596,"A Local Search Modeling for Constrained Optimum Paths Problems (Extended
+  Abstract)",Foundations of the Pareto Iterated Local Search Metaheuristic,2
+597,"Dynamic Demand-Capacity Balancing for Air Traffic Management Using
+  Constraint-Based Local Search: First Results","Parallel local search for solving Constraint Problems on the Cell
+  Broadband Engine (Preliminary Results)",3
+598,On Improving Local Search for Unsatisfiability,When Gravity Fails: Local Search Topology,3
+598,On Improving Local Search for Unsatisfiability,Improving Local Search for Fuzzy Scheduling Problems,3
+598,On Improving Local Search for Unsatisfiability,"A Local Search Modeling for Constrained Optimum Paths Problems (Extended
+  Abstract)",3
+598,On Improving Local Search for Unsatisfiability,Toward an automaton Constraint for Local Search,3
+598,On Improving Local Search for Unsatisfiability,Islands for SAT,2
+600,A Constraint-directed Local Search Approach to Nurse Rostering Problems,"Randomised Variable Neighbourhood Search for Multi Objective
+  Optimisation",4
+600,A Constraint-directed Local Search Approach to Nurse Rostering Problems,Improving Local Search for Fuzzy Scheduling Problems,2
+600,A Constraint-directed Local Search Approach to Nurse Rostering Problems,"Proceedings 6th International Workshop on Local Search Techniques in
+  Constraint Satisfaction",2
+602,"Parallel local search for solving Constraint Problems on the Cell
+  Broadband Engine (Preliminary Results)","Dynamic Demand-Capacity Balancing for Air Traffic Management Using
+  Constraint-Based Local Search: First Results",3
+602,"Parallel local search for solving Constraint Problems on the Cell
+  Broadband Engine (Preliminary Results)",When Gravity Fails: Local Search Topology,2
+603,Toward an automaton Constraint for Local Search,When Gravity Fails: Local Search Topology,3
+603,Toward an automaton Constraint for Local Search,"A Local Search Modeling for Constrained Optimum Paths Problems (Extended
+  Abstract)",3
+603,Toward an automaton Constraint for Local Search,On Improving Local Search for Unsatisfiability,3
+603,Toward an automaton Constraint for Local Search,The Essence of Constraint Propagation,2
+603,Toward an automaton Constraint for Local Search,Islands for SAT,2
+604,"Proceedings 6th International Workshop on Local Search Techniques in
+  Constraint Satisfaction",When Gravity Fails: Local Search Topology,2
+604,"Proceedings 6th International Workshop on Local Search Techniques in
+  Constraint Satisfaction",Islands for SAT,2
+604,"Proceedings 6th International Workshop on Local Search Techniques in
+  Constraint Satisfaction",Foundations of the Pareto Iterated Local Search Metaheuristic,2
+604,"Proceedings 6th International Workshop on Local Search Techniques in
+  Constraint Satisfaction",Improving Local Search for Fuzzy Scheduling Problems,2
+604,"Proceedings 6th International Workshop on Local Search Techniques in
+  Constraint Satisfaction","A Local Search Modeling for Constrained Optimum Paths Problems (Extended
+  Abstract)",2
+605,Tracking object's type changes with fuzzy based fusion rule,"Target Type Tracking with PCR5 and Dempster's rules: A Comparative
+  Analysis",5
+605,Tracking object's type changes with fuzzy based fusion rule,"Importance of Sources using the Repeated Fusion Method and the
+  Proportional Conflict Redistribution Rules #5 and #6",2
+606,Finite element model selection using Particle Swarm Optimization,Truecluster: robust scalable clustering with model selection,2
+606,Finite element model selection using Particle Swarm Optimization,Bayesian Approach to Neuro-Rough Models,2
+606,Finite element model selection using Particle Swarm Optimization,Dominion -- A constraint solver generator,2
+607,A Fuzzy Petri Nets Model for Computing With Words,Retraction and Generalized Extension of Computing with Words,5
+608,"Emotion: Appraisal-coping model for the ""Cascades"" problem",Emotion : modèle d'appraisal-coping pour le problème des Cascades,5
+608,"Emotion: Appraisal-coping model for the ""Cascades"" problem",Translating between Horn Representations and their Characteristic Models,2
+608,"Emotion: Appraisal-coping model for the ""Cascades"" problem",Kalman-filtering using local interactions,2
+608,"Emotion: Appraisal-coping model for the ""Cascades"" problem",Model-Driven Constraint Programming,2
+609,Emotion : modèle d'appraisal-coping pour le problème des Cascades,"Emotion: Appraisal-coping model for the ""Cascades"" problem",5
+610,"Covering rough sets based on neighborhoods: An approach without using
+  neighborhoods",Application of Rough Set Theory to Analysis of Hydrocyclone Operation,2
+610,"Covering rough sets based on neighborhoods: An approach without using
+  neighborhoods",An axiomatic approach to the roughness measure of rough sets,2
+611,An axiomatic approach to the roughness measure of rough sets,Application of Rough Set Theory to Analysis of Hydrocyclone Operation,3
+611,An axiomatic approach to the roughness measure of rough sets,Modeling of Social Transitions Using Intelligent Systems,2
+611,An axiomatic approach to the roughness measure of rough sets,"Covering rough sets based on neighborhoods: An approach without using
+  neighborhoods",2
+612,Opportunistic Adaptation Knowledge Discovery,Adaptation Knowledge Discovery from a Case Base,4
+613,On Backtracking in Real-time Heuristic Search,When Gravity Fails: Local Search Topology,2
+613,On Backtracking in Real-time Heuristic Search,Bidirectional Heuristic Search Reconsidered,2
+614,New Generalization Bounds for Learning Kernels,Flexibly Instructable Agents,2
+614,New Generalization Bounds for Learning Kernels,Generalization of Clauses under Implication,2
+618,A general approach to belief change in answer set programming,Logic Programs with Compiled Preferences,5
+618,A general approach to belief change in answer set programming,A Framework for Compiling Preferences in Logic Programs,5
+618,A general approach to belief change in answer set programming,"Modeling Belief in Dynamic Systems, Part II: Revision and Update",4
+618,A general approach to belief change in answer set programming,A Compiler for Ordered Logic Programs,4
+618,A general approach to belief change in answer set programming,A Consistency-Based Model for Belief Change: Preliminary Report,4
+619,"Oriented Straight Line Segment Algebra: Qualitative Spatial Reasoning
+  about Oriented Objects","Integrating cardinal direction relations and other orientation relations
+  in Qualitative Spatial Reasoning",2
+619,"Oriented Straight Line Segment Algebra: Qualitative Spatial Reasoning
+  about Oriented Objects",Relation Variables in Qualitative Spatial Reasoning,2
+620,On a Model for Integrated Information,"Causes and Explanations: A Structural-Model Approach, Part I: Causes",2
+620,On a Model for Integrated Information,Model-Driven Constraint Programming,2
+623,Web-Based Expert System for Civil Service Regulations: RCSES,LEXSYS: Architecture and Implication for Intelligent Agent systems,2
+626,$α$-Discounting Multi-Criteria Decision Making ($α$-D MCDM),"Knowledge Management in Economic Intelligence with Reasoning on Temporal
+  Attributes",2
+627,Dominion -- A constraint solver generator,Bayesian Approach to Neuro-Rough Models,2
+627,Dominion -- A constraint solver generator,Decomposition During Search for Propagation-Based Constraint Solvers,2
+627,Dominion -- A constraint solver generator,Finite element model selection using Particle Swarm Optimization,2
+627,Dominion -- A constraint solver generator,Model-Driven Constraint Programming,2
+627,Dominion -- A constraint solver generator,Rewriting Constraint Models with Metamodels,2
+629,Some improved results on communication between information systems,Homomorphisms between fuzzy information systems revisited,3
+629,Some improved results on communication between information systems,Game Information System,3
+629,Some improved results on communication between information systems,Virtual information system on working area,3
+629,Some improved results on communication between information systems,"Toward the Implementation of Functions in the DLV System (Preliminary
+  Technical Report)",2
+629,Some improved results on communication between information systems,An improved axiomatic definition of information granulation,2
+630,Homomorphisms between fuzzy information systems revisited,Some improved results on communication between information systems,3
+630,Homomorphisms between fuzzy information systems revisited,An improved axiomatic definition of information granulation,2
+630,Homomorphisms between fuzzy information systems revisited,Game Information System,2
+630,Homomorphisms between fuzzy information systems revisited,Virtual information system on working area,2
+633,Model-Driven Constraint Programming,Stochastic Constraint Programming: A Scenario-Based Approach,4
+633,Model-Driven Constraint Programming,Scenario-based Stochastic Constraint Programming,3
+633,Model-Driven Constraint Programming,Rewriting Constraint Models with Metamodels,3
+633,Model-Driven Constraint Programming,Translating between Horn Representations and their Characteristic Models,2
+633,Model-Driven Constraint Programming,MUSE CSP: An Extension to the Constraint Satisfaction Problem,2
+634,Rewriting Constraint Models with Metamodels,Model-Driven Constraint Programming,3
+634,Rewriting Constraint Models with Metamodels,Generic Global Constraints based on MDDs,2
+634,Rewriting Constraint Models with Metamodels,Reformulating Global Grammar Constraints,2
+634,Rewriting Constraint Models with Metamodels,Stochastic Constraint Programming: A Scenario-Based Approach,2
+634,Rewriting Constraint Models with Metamodels,Stochastic Constraint Programming,2
+637,A new model for solution of complex distributed constrained problems,Using Pivot Consistency to Decompose and Solve Functional CSPs,2
+637,A new model for solution of complex distributed constrained problems,MUSE CSP: An Extension to the Constraint Satisfaction Problem,2
+637,A new model for solution of complex distributed constrained problems,DATALOG with constraints - an answer-set programming system,2
+637,A new model for solution of complex distributed constrained problems,Breaking Value Symmetry,2
+637,A new model for solution of complex distributed constrained problems,Multiset Ordering Constraints,2
+640,Indexer Based Dynamic Web Services Discovery,Spatial Aggregation: Theory and Applications,2
+640,Indexer Based Dynamic Web Services Discovery,Semantic Description of Parameters in Web Service Annotations,2
+640,Indexer Based Dynamic Web Services Discovery,"A Novel Two-Staged Decision Support based Threat Evaluation and Weapon
+  Assignment Algorithm, Asset-based Dynamic Weapon Scheduling using Artificial
+  Intelligence Techinques",2
+641,"On the Failure of the Finite Model Property in some Fuzzy Description
+  Logics",A Neutrosophic Description Logic,2
+642,A multivalued knowledge-base model,Retraction and Generalized Extension of Computing with Words,2
+642,A multivalued knowledge-base model,A Neutrosophic Description Logic,2
+644,LEXSYS: Architecture and Implication for Intelligent Agent systems,Web-Based Expert System for Civil Service Regulations: RCSES,2
+647,"Importance of Sources using the Repeated Fusion Method and the
+  Proportional Conflict Redistribution Rules #5 and #6",A Simple Proportional Conflict Redistribution Rule,5
+647,"Importance of Sources using the Repeated Fusion Method and the
+  Proportional Conflict Redistribution Rules #5 and #6",Proportional Conflict Redistribution Rules for Information Fusion,5
+647,"Importance of Sources using the Repeated Fusion Method and the
+  Proportional Conflict Redistribution Rules #5 and #6","A new generalization of the proportional conflict redistribution rule
+  stable in terms of decision",5
+647,"Importance of Sources using the Repeated Fusion Method and the
+  Proportional Conflict Redistribution Rules #5 and #6","Adaptative combination rule and proportional conflict redistribution
+  rule for information fusion",4
+647,"Importance of Sources using the Repeated Fusion Method and the
+  Proportional Conflict Redistribution Rules #5 and #6","An In-Depth Look at Information Fusion Rules & the Unification of Fusion
+  Theories",2
+648,Terrorism Event Classification Using Fuzzy Inference Systems,"EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",4
+648,Terrorism Event Classification Using Fuzzy Inference Systems,On the relationship between fuzzy logic and four-valued relevance logic,2
+648,Terrorism Event Classification Using Fuzzy Inference Systems,Business Intelligence from Web Usage Mining,2
+648,Terrorism Event Classification Using Fuzzy Inference Systems,"Adaptation of Mamdani Fuzzy Inference System Using Neuro - Genetic
+  Approach for Tactical Air Combat Decision Support System",2
+649,Probabilistic Semantic Web Mining Using Artificial Neural Analysis,Fact Sheet on Semantic Web,3
+649,Probabilistic Semantic Web Mining Using Artificial Neural Analysis,Understanding Semantic Web and Ontologies: Theory and Applications,3
+649,Probabilistic Semantic Web Mining Using Artificial Neural Analysis,Iterative Optimization and Simplification of Hierarchical Clusterings,2
+649,Probabilistic Semantic Web Mining Using Artificial Neural Analysis,Is Neural Network a Reliable Forecaster on Earth? A MARS Query!,2
+649,Probabilistic Semantic Web Mining Using Artificial Neural Analysis,Modeling Computations in a Semantic Network,2
+651,Symmetry within Solutions,Breaking Value Symmetry,5
+651,Symmetry within Solutions,MUSE CSP: An Extension to the Constraint Satisfaction Problem,4
+651,Symmetry within Solutions,Relation Variables in Qualitative Spatial Reasoning,4
+651,Symmetry within Solutions,Symmetry within and between solutions,4
+651,Symmetry within Solutions,Using Pivot Consistency to Decompose and Solve Functional CSPs,3
+652,Propagating Conjunctions of AllDifferent Constraints,The Essence of Constraint Propagation,2
+653,Decision Support Systems (DSS) in Construction Tendering Processes,"Multiagent Approach for the Representation of Information in a Decision
+  Support System",5
+653,Decision Support Systems (DSS) in Construction Tendering Processes,"Adaptation of Mamdani Fuzzy Inference System Using Neuro - Genetic
+  Approach for Tactical Air Combat Decision Support System",4
+653,Decision Support Systems (DSS) in Construction Tendering Processes,Decision Support Systems Using Intelligent Paradigms,3
+653,Decision Support Systems (DSS) in Construction Tendering Processes,Belief decision support and reject for textured images characterization,2
+653,Decision Support Systems (DSS) in Construction Tendering Processes,Indonesian Earthquake Decision Support System,2
+654,Towards Closed World Reasoning in Dynamic Open Worlds (Extended Version),Decidable Reasoning in Terminological Knowledge Representation Systems,2
+654,Towards Closed World Reasoning in Dynamic Open Worlds (Extended Version),Reasoning about Evolving Nonmonotonic Knowledge Bases,2
+654,Towards Closed World Reasoning in Dynamic Open Worlds (Extended Version),Toward a Category Theory Design of Ontological Knowledge Bases,2
+656,Ontology-based inference for causal explanation,"Causes and Explanations: A Structural-Model Approach. Part II:
+  Explanations",2
+656,Ontology-based inference for causal explanation,"EvoNF: A Framework for Optimization of Fuzzy Inference Systems Using
+  Neural Network Learning and Evolutionary Computation",2
+657,The Exact Closest String Problem as a Constraint Satisfaction Problem,MUSE CSP: An Extension to the Constraint Satisfaction Problem,5
+657,The Exact Closest String Problem as a Constraint Satisfaction Problem,Breaking Value Symmetry,5
+657,The Exact Closest String Problem as a Constraint Satisfaction Problem,Using Pivot Consistency to Decompose and Solve Functional CSPs,4
+657,The Exact Closest String Problem as a Constraint Satisfaction Problem,"Logic Programming Approaches for Representing and Solving Constraint
+  Satisfaction Problems: A Comparison",3
+657,The Exact Closest String Problem as a Constraint Satisfaction Problem,Relation Variables in Qualitative Spatial Reasoning,3
+662,On Building a Knowledge Base for Stability Theory,A Hierarchy of Tractable Subsets for Computing Stable Models,2
+662,On Building a Knowledge Base for Stability Theory,A Consistency-Based Model for Belief Change: Preliminary Report,2
+662,On Building a Knowledge Base for Stability Theory,What does a conditional knowledge base entail?,2
+662,On Building a Knowledge Base for Stability Theory,Mathematical Models in Schema Theory,2
+662,On Building a Knowledge Base for Stability Theory,Toward a Category Theory Design of Ontological Knowledge Bases,2
+664,"Feature Selection Using Regularization in Approximate Linear Programs
+  for Markov Decision Processes","A Model Approximation Scheme for Planning in Partially Observable
+  Stochastic Domains",3
+664,"Feature Selection Using Regularization in Approximate Linear Programs
+  for Markov Decision Processes",MDPs with Unawareness,3
+667,A Soft Computing Model for Physicians' Decision Process,Improving Local Search for Fuzzy Scheduling Problems,3
+667,A Soft Computing Model for Physicians' Decision Process,DCT Based Texture Classification Using Soft Computing Approach,2
+667,A Soft Computing Model for Physicians' Decision Process,"Short Term Load Forecasting Models in Czech Republic Using Soft
+  Computing Paradigms",2
+669,"Inaccuracy Minimization by Partioning Fuzzy Data Sets - Validation of
+  Analystical Methodology","Artificial Neural Networks and Support Vector Machines for Water Demand
+  Time Series Forecasting",2
+671,"Automated Reasoning and Presentation Support for Formalizing Mathematics
+  in Mizar",Granularity-Adaptive Proof Presentation,2
+672,Integrating Structured Metadata with Relational Affinity Propagation,"Growing a Tree in the Forest: Constructing Folksonomies by Integrating
+  Structured Metadata",3
+673,A Formalization of the Turing Test,Tests of Machine Intelligence,3
+673,A Formalization of the Turing Test,Beyond Turing Machines,3
+674,"Growing a Tree in the Forest: Constructing Folksonomies by Integrating
+  Structured Metadata",Constructing Folksonomies from User-specified Relations on Flickr,6
+674,"Growing a Tree in the Forest: Constructing Folksonomies by Integrating
+  Structured Metadata",Integrating Structured Metadata with Relational Affinity Propagation,3
+675,Symmetries of Symmetry Breaking Constraints,Symmetries of Symmetry Breaking Constraints,11
+675,Symmetries of Symmetry Breaking Constraints,Breaking Value Symmetry,4
+675,Symmetries of Symmetry Breaking Constraints,Combining Symmetry Breaking and Global Constraints,4
+675,Symmetries of Symmetry Breaking Constraints,Stochastic Constraint Programming: A Scenario-Based Approach,3
+675,Symmetries of Symmetry Breaking Constraints,Weight Constraints as Nested Expressions,2
+676,"Learning Probabilistic Hierarchical Task Networks to Capture User
+  Preferences",On Planning with Preferences in HTN,3
+678,Variational Program Inference,Unfolding Partiality and Disjunctions in Stable Model Semantics,2
+678,Variational Program Inference,Model-Driven Constraint Programming,2
+680,Game Information System,Some improved results on communication between information systems,3
+680,Game Information System,Virtual information system on working area,3
+680,Game Information System,An improved axiomatic definition of information granulation,2
+680,Game Information System,Homomorphisms between fuzzy information systems revisited,2
+681,Virtual information system on working area,Some improved results on communication between information systems,3
+681,Virtual information system on working area,Game Information System,3
+681,Virtual information system on working area,An improved axiomatic definition of information granulation,2
+681,Virtual information system on working area,Homomorphisms between fuzzy information systems revisited,2
+682,Indonesian Earthquake Decision Support System,"Adaptation of Mamdani Fuzzy Inference System Using Neuro - Genetic
+  Approach for Tactical Air Combat Decision Support System",2
+682,Indonesian Earthquake Decision Support System,Decision Support Systems Using Intelligent Paradigms,2
+682,Indonesian Earthquake Decision Support System,"Multiagent Approach for the Representation of Information in a Decision
+  Support System",2
+682,Indonesian Earthquake Decision Support System,Decision Support Systems (DSS) in Construction Tendering Processes,2
+683,MDPs with Unawareness,"A Model Approximation Scheme for Planning in Partially Observable
+  Stochastic Domains",3
+683,MDPs with Unawareness,"Feature Selection Using Regularization in Approximate Linear Programs
+  for Markov Decision Processes",3
+685,"A General Framework for Equivalences in Answer-Set Programming by
+  Countermodels in the Logic of Here-and-There","Well-Founded Semantics for Extended Logic Programs with Dynamic
+  Preferences",3
+685,"A General Framework for Equivalences in Answer-Set Programming by
+  Countermodels in the Logic of Here-and-There","Comparisons and Computation of Well-founded Semantics for Disjunctive
+  Logic Programs",3
+685,"A General Framework for Equivalences in Answer-Set Programming by
+  Countermodels in the Logic of Here-and-There",A general approach to belief change in answer set programming,3
+685,"A General Framework for Equivalences in Answer-Set Programming by
+  Countermodels in the Logic of Here-and-There",Practical Methods for Proving Termination of General Logic Programs,2
+685,"A General Framework for Equivalences in Answer-Set Programming by
+  Countermodels in the Logic of Here-and-There",Uniform semantic treatment of default and autoepistemic logics,2
+687,Vagueness of Linguistic variable,"2006: Celebrating 75 years of AI - History and Outlook: the Next 25
+  Years",2
+688,An Efficient Technique for Similarity Identification between Ontologies,Considerations on Construction Ontologies,2
+688,An Efficient Technique for Similarity Identification between Ontologies,Understanding Semantic Web and Ontologies: Theory and Applications,2
+689,The State of the Art: Ontology Web-Based Languages: XML Based,Reformulating Global Grammar Constraints,2
+690,Understanding Semantic Web and Ontologies: Theory and Applications,Fact Sheet on Semantic Web,3
+690,Understanding Semantic Web and Ontologies: Theory and Applications,Probabilistic Semantic Web Mining Using Artificial Neural Analysis,3
+690,Understanding Semantic Web and Ontologies: Theory and Applications,Modeling Computations in a Semantic Network,2
+690,Understanding Semantic Web and Ontologies: Theory and Applications,An Efficient Technique for Similarity Identification between Ontologies,2
+691,GroupLiNGAM: Linear non-Gaussian acyclic models for sets of variables,Operations for Learning with Graphical Models,2
+695,Decomposition of the NVALUE constraint,Decomposition of the NVALUE constraint,8
+695,Decomposition of the NVALUE constraint,A Generic Global Constraint based on MDDs,3
+695,Decomposition of the NVALUE constraint,Generic Global Constraints based on MDDs,3
+695,Decomposition of the NVALUE constraint,Serious Flaws in Korf et al.'s Analysis on Time Complexity of A*,3
+695,Decomposition of the NVALUE constraint,Learning DTW Global Constraint for Time Series Classification,3
+696,Symmetry within and between solutions,Symmetry within Solutions,4
+696,Symmetry within and between solutions,Breaking Value Symmetry,3
+696,Symmetry within and between solutions,MUSE CSP: An Extension to the Constraint Satisfaction Problem,2
+696,Symmetry within and between solutions,Probabilistic Default Reasoning with Conditional Constraints,2
+696,Symmetry within and between solutions,Relation Variables in Qualitative Spatial Reasoning,2
+698,Local search for stable marriage problems with ties and incomplete lists,On the Expressibility of Stable Logic Programming,2
